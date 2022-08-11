@@ -131,7 +131,8 @@
         <a href="https://github.com/erc-dharma/tfa-uttiramerur-epigraphy">Uttiramērūr Inscriptions</a>
       </h1>
       <p><img src="https://img.shields.io/badge/licence-CC--BY-green.svg" class="img-fluid" alt="CC-BY"/>
-      <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" class="img-fluid" alt="Open Science"/></p>
+      </p>
+      <p>Preview for metadata reviewing process.</p>
     <p>Texts edited in XML TEI by Manu Francis & Valérie Gillet for the ERC-DHARMA Task force A.</p>
       <p><span  class="badge badge-warning">Number of files <b id="lenght"></b> </span> </p>
     <br/>
@@ -192,7 +193,8 @@
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.md', '');
-          const fileDisplayName = fileName.split('-').join(' ').replace('texts/htmloutput/', '').replace('.html', '');
+          let re = /\_[a-z0-9]+\.html/
+          var fileDisplayName = fileName.replace('metadata/DHARMA_mdt_', 'Metadata ').replace(re, '').replace('.html', '');
           htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
@@ -208,7 +210,7 @@
       }
       (async () => {
         // Get GitHub repository file info
-        const response = await fetch('https://api.github.com/repos/erc-dharma/tfa-uttiramerur-epigraphy/contents/texts/htmloutput');
+        const response = await fetch('https://api.github.com/repos/erc-dharma/tfa-uttiramerur-epigraphy/contents/metadata');
         const data = await response.json();
         // Initialize search fields and results
         const search_form = document.getElementById('search_form');
