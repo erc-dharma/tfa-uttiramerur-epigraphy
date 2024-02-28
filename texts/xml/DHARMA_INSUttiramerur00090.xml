@@ -47,11 +47,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Recapitulative inscription recording an inventory of earlier endowments.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -90,9 +90,10 @@
 	</ab>     
 	
          	<p>
-         		...
-         		<lb n="2" break="no"/>...
-         	</p>
+		tiruvāy-k-kēḻvi muṉṉ-āka <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha">c-cakra</hi>vattikaḷ maturaiyum Īḻamuṅ karuvūrum pāṇṭiyaṉ muṭi-t-talaiyuṅ koṇṭaruḷi v<choice><orig>i</orig><reg>ī</reg></choice>rar <hi rend="grantha">Abhiṣe</hi>kamum vicaiyar <hi rend="grantha">Abhiṣe</hi>kamum paṇṇi<choice><orig>A</orig><reg>ya</reg></choice>ruḷiṉa <hi rend="grantha">tribhu</hi>vaṉa
+         		<lb n="2" break="no"/>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">de</hi>vaṟku yāṇṭu <num value="37">3 <supplied reason="undefined"><g type="numeral">10</g></supplied> 7</num> Āvatu <hi rend="grantha">mithu</hi>ṉa-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣattu</hi>
+		na<hi rend="grantha">vamiyum·</hi> nāyaṟṟu-k-kiḻamaiyum peṟṟa Attattu nāḷ
+	</p>
          	
                   	
          </div>
@@ -103,32 +104,27 @@
 		<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:SubrahmanyaAiyer1928_01">...</rdg>
-		</app>
-		
+		</app>		
 		
 	</listApp>
 	
 </div>-->
-
-<!--<div type="translation" resp="part:emfr">
-         	
-         </div>-->
-      	
-         <!--<div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-</div>-->
-      	
-      	
+    	      	
 <div type="translation" resp="part:emfr">
          	
          	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="1-2">37th year of the king Tribhuvana Vīra, the emperor of the three worlds, <gap reason="ellipsis"/> who, having graciously taken Maturai, Īḻam, Karuvūr and the crowned head of the Pāṇḍya, graciously made the anointment of heroes and and the anointment of the victors, on the day of <foreign>attam</foreign><note>That is, Sanskrit <foreign>hasta</foreign>, the 13th <foreign>nakṣatra</foreign>.</note>, which coincides with <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> the ninth lunar day <supplied reason="explanation"><foreign>navami</foreign><note>That is, Sanskrit <foreign>navamī</foreign>.</note></supplied>, a Sunday, in the first fortnight of the month of <supplied reason="explanation"><foreign>mithuna</foreign></supplied>.
+	</p>
 	
 </div>
 
 
 <div type="commentary">
          	
-	<p>...</p>
+	<p>
+		There is another copy of this inscription with variant spellings (SII 12, no. 96) in the Vyāghrapurīśvara temple in Tiruppulivaṉam.
+	</p>
 	
 	
 </div>
@@ -145,12 +141,12 @@
 	</p>
 	
 	<p>
-		Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl>.
+		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl>. First translated by Emmanuel Francis (2024).
 	</p>
 	
 	<listBibl type="primary">
 		
-		<bibl n="V">
+		<bibl n="SA">
 			<ptr target="bib:SubrahmanyaAiyer1928_01"/>
 			<citedRange unit="page">163-164</citedRange>
 			<citedRange unit="item">350</citedRange>
