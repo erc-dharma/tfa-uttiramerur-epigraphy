@@ -85,6 +85,7 @@
 
 <div type="edition" xml:lang="tam-Latn">
          	
+         	<!--Complete encoding: lines 6-14-->
 	<ab>
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>     
@@ -95,20 +96,47 @@
 		na<hi rend="grantha">vamiyum·</hi> nāyaṟṟu-k-kiḻamaiyum peṟṟa Attattu nāḷ
 	</p>
          	
+         	<p>
+		<hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻamaṇṭalattu-k kāliyūṟ-kōttaṭṭu-t taṉiyūr Uttara
+         		<lb n="3" break="no"/>mēlūr-āṉa <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">c-caturvvedi</hi>-maṅkala<hi rend="grantha">ttu mahāsabhai</hi>yōm Eḻuttu</p>
+	
+	<p>
+		nam<supplied reason="undefined">m-ūr Uṭaiyār tiru</supplied>-p-pulivaṉam-uṭaiya nāyaṉāṟku-t tiru-nun=tā-viḷakku Erippat-āka Eṅkaḷ <hi rend="grantha"><supplied reason="undefined">pū</supplied>rvva</hi>
+		<lb n="4" break="no"/>-<hi rend="grantha">puruṣaha</hi>ḷ pala<supplied reason="omitted">r</supplied> pakkalu<supplied reason="omitted">m</supplied> poṉ koṇṭu poli-y-ūṭṭukku Erikka-k kaṭavarkaḷ-āka muṉṉāḷil kalveṭṭiṉa tiru-<supplied reason="lost">nuntā</supplied>-<supplied reason="undefined">vi</supplied>ḷakkuk<supplied reason="undefined">kaḷ <hi rend="grantha">rājamā</hi></supplied>ttā<hi rend="grantha">ṇda</hi><supplied reason="undefined">ṉ-ā</supplied>kiya <hi rend="grantha">Apa</hi>rā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha"><supplied reason="undefined">kra</supplied>ma</hi>va<hi rend="grantha"><supplied reason="undefined">nma</supplied></hi>rkku yāṇṭu <num value="14"><g type="numeral">10</g> <supplied reason="undefined">4</supplied></num> Āvatu		
+		<lb n="5" break="no"/>nāḷil <hi rend="grantha">sūryya-graha</hi>ṉattukki<choice><orig>n</orig><reg>ṉ</reg></choice> nāḷ <hi rend="grantha">rājamā</hi>ttā<hi rend="grantha">ṇḍa</hi><supplied reason="undefined">ṉ-ākiya</supplied> <hi rend="grantha">Aparāji</hi>ta-vikkirmava<hi rend="grantha">nma</hi>r pakkaḷ kai-k koṇṭa <supplied reason="undefined">p</supplied>o<supplied reason="omitted">ṉ</supplied> niṟai cem poṉ nūṟūk kaḻañcukku Erikka-k kaṭava<supplied reason="undefined">t-āka</supplied> tiru-p-pulivaṉam-uṭaiyār kōyililu<supplied reason="omitted">m</supplied> naṭuviṟ-kōyili
+		<lb n="6" break="no"/>luṅ kalveṭṭiṉa nilai-viḷakku nālum 
+	</p>
                   	
+	<p>
+		naṭuviṟ-kōyiliṟ kalveṭṭiṉa paṭi
+	</p>
+	
+	<p>
+		kacciyun tañcaiyuṅ koṇṭa ...
+	</p>
+	
+	<p>
+		...
+	</p>
          </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
 
 	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:SubrahmanyaAiyer1928_01">...</rdg>
+		
+		<app loc="4">
+			<lem>tiru-<supplied reason="lost">nuntā</supplied>-<supplied reason="undefined">vi</supplied>ḷakkuk<supplied reason="undefined">kaḷ</supplied></lem>
+			<rdg source="bib:SubrahmanyaAiyer1928_01">tiru <gap reason="lost" quantity="4" unit="character"/> <supplied reason="undefined">vi</supplied>ḷakkuk<supplied reason="undefined">kaḷ</supplied></rdg>
+		</app>		
+		
+		<app loc="5">
+			<lem><supplied reason="undefined">p</supplied>o<supplied reason="omitted">ṉ</supplied> niṟai</lem>
+			<rdg source="bib:SubrahmanyaAiyer1928_01"><supplied reason="undefined">p</supplied>o<supplied reason="omitted">n</supplied> niṟai</rdg>
 		</app>		
 		
 	</listApp>
 	
-</div>-->
+</div>
     	      	
 <div type="translation" resp="part:emfr">
          	
@@ -117,13 +145,34 @@
 	<p n="1-2">37th year of the king Tribhuvana Vīra, the emperor of the three worlds, <gap reason="ellipsis"/> who, having graciously taken Maturai, Īḻam, Karuvūr and the crowned head of the Pāṇḍya, graciously made the anointment of heroes and and the anointment of the victors, on the day of <foreign>attam</foreign><note>That is, Sanskrit <foreign>hasta</foreign>, the 13th <foreign>nakṣatra</foreign>.</note>, which coincides with <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> the ninth lunar day <supplied reason="explanation"><foreign>navami</foreign><note>That is, Sanskrit <foreign>navamī</foreign>.</note></supplied>, a Sunday, in the first fortnight of the month of <supplied reason="explanation"><foreign>mithuna</foreign></supplied>.
 	</p>
 	
+	<p n="2-3">Writ of we, the members of the assembly of the glorious Rājendracōḻacaturvedimaṅgala <hi rend="italic">alias</hi> Uttaramēlūr<note>That is, Uttiramērūr.</note>, a <foreign>taṉiyūr</foreign> in the Kāliyuṟkōṭṭam in the Jayaṅkoṇṭacōḻamaṇṭalam.</p>
+	
+	<p n="3-6">
+		<list>
+			<item>So as to burn a glorious perpetual lamp for the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> <supplied reason="explanation">of</supplied> our village, the Lord <supplied reason="explanation"><foreign>nāyaṉār</foreign></supplied>, who owns <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> Tiruppulivaṉanam,</item>
+			<item>so that to become those whose duty is to burn with <note>Literally, "for".</note> the earned interest from <supplied reason="explanation"><foreign>koṇṭu</foreign><note>Literally, "having taken", that is, "with".</note></supplied> the gold <supplied reason="subaudible">obtained</supplied> from many among our predecessors <supplied reason="explanation"><foreign>eṅkaḷ <hi rend="grantha"><supplied reason="undefined">pū</supplied>rvva-puruṣaha</hi>ḷ</foreign><note>That is, <foreign>eṅkaḷ <hi rend="grantha">pūrva-puruṣa</hi>rkaḷ</foreign>.</note></supplied>,</item>
+		</list>
+		among the glorious perpetual lamps, that were inscribed<note>That is, the donation of which was recorded in an inscription.</note> in previous times,
+		<supplied reason="subaudible">there are</supplied>
+		four pedestal-lamps <supplied reason="explanation"><foreign>nilai-viḷakku</foreign></supplied>
+		that were inscribed in the temple of the Lord of Tiruppulivaṉam and in the temple in the middle <supplied reason="explanation"><foreign>naṭuvil</foreign><note>This must be the temple, or rather the <foreign>maṇḍapa</foreign>, in the middle of the village of Uttiramērūr, known as the Vaikuṇṭhaperumāḷ, which served as the meeting place for the local assembly. See <bibl><ptr target="bib:Gros+Nagaswamy1970_01"/><citedRange unit="page">17-18</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></supplied>, 
+		so that there be dutiful burning for the <supplied reason="undefined">100</supplied> <foreign>kaḻañcu</foreign>s of refined gold <gap reason="ellipsis"/> <supplied reason="explanation"><foreign><supplied reason="undefined">poṉ</supplied> niṟai</foreign></supplied> received <supplied reason="explanation"><foreign>kai-k koṇṭa</foreign><note>Literally, "got in hands".</note></supplied> from Aparājitavikramavarman, <hi rend="italic">alias</hi> Rājamārtāṇḍa, <supplied reason="subaudible">at the time of</supplied> a solar eclipse at the time of the 14th year of Aparājitavikramavarman, <hi rend="italic">alias</hi> Rājamārtāṇḍa.
+	</p>
+	
+	<p n="6">
+		According to the engravings in the in the temple in the middle.
+	</p>
+	
+	<p n="6-14">
+		...
+	</p>
 </div>
 
 
 <div type="commentary">
          	
 	<p>
-		There is another copy of this inscription with variant spellings (SII 12, no. 96) in the Vyāghrapurīśvara temple in Tiruppulivaṉam.
+		There is another copy of this inscription with some variants and variant spellings (SII 12, no. 96) in the Vyāghrapurīśvara temple in Tiruppulivaṉam.
 	</p>
 	
 	
@@ -151,7 +200,11 @@
 			<citedRange unit="page">163-164</citedRange>
 			<citedRange unit="item">350</citedRange>
 		</bibl>
-						
+					
+		<!--
+			Check if in Swaminathan 2000. Apparently not.
+		-->
+		
 	</listBibl>
 	
 	<listBibl type="secondary">
