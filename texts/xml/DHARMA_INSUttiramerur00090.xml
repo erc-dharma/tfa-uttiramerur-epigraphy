@@ -225,6 +225,12 @@
 		</bibl>
 		
 		<bibl>
+			<ptr target="bib:Mahalingam1989_01"/>
+			<citedRange unit="page">295</citedRange>
+			<citedRange unit="item">Cg. 1162</citedRange>			
+		</bibl>
+		
+		<bibl>
 			<ptr target="bib:NilakantaSastri1932_01"/>
 			<citedRange unit="page">100ff.</citedRange>
 		</bibl>

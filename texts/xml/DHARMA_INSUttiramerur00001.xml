@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭha-Perumāḷ, time of Parāntaka I Cōḻa, year 12</title>
+				<title>Uttiramērūr, Vaikuṇṭha-Perumāḷ, time of Parakesarivarman, year 12</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -127,7 +127,9 @@
 
 <div type="commentary">
          	
-	<p>...</p>
+	<p>
+		Parāntaka I Cōḻa according to <bibl><ptr target="bib:Venkayya1908_01"/></bibl> (918/919 CE)and <bibl><ptr target="bib:Mahalingam1989_01"/></bibl> (919 CE).
+	</p>
 	
 	
 </div>
@@ -159,8 +161,7 @@
 			<ptr target="bib:NilakantaSastri1932_01"/>
 			<citedRange unit="page">163-164, 169-170</citedRange>
 			<citedRange unit="item">A</citedRange>
-		</bibl>
-		
+		</bibl>		
 		
 	</listBibl>
 	
@@ -172,6 +173,13 @@
 			<citedRange unit="appendix">B</citedRange>
 			<citedRange unit="item">1</citedRange>
 		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Mahalingam1989_01"/>
+			<citedRange unit="page">266-267</citedRange>
+			<citedRange unit="item">Cg. 1074</citedRange>			
+		</bibl>
+		
 		
 	</listBibl>
 	
