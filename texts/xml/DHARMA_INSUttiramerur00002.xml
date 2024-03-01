@@ -97,9 +97,10 @@
                   	
          </div>
 
-<div type="apparatus">
+<!--<div type="apparatus">
 
 	<listApp>
+		
 		<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:Venkayya1908_01">...</rdg>
@@ -108,15 +109,24 @@
 		
 	</listApp>
 	
-</div>
+</div>-->
 
-         <!--<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
-         </div>-->
-      	
-         <!--<div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>-->
+         	<p n="1">
+         		Prosperity! Fortune!
+         	</p>
+       
+	<p n="1">
+		14th year, 16th day of the king Parakesarivarman who took Maturai.
+	</p>
+	
+	<p n="1-2">
+		...
+	</p>
+	
+</div> 
+
       	
 <div type="translation" source="bib:Venkayya1908_01">
          	
@@ -146,7 +156,7 @@
 	</p>
 	
 	<p>
-		Re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on autopsy and on photographs (2019).
+		Re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on autopsy and on photographs (2019), with input from participants to the DHARMA workshop held in Pondicherry in August 2023.
 	</p>
 	
 	<listBibl type="primary">
