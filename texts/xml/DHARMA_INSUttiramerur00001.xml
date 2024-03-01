@@ -90,21 +90,37 @@
 	</ab>     
 	
          	<p>
-         		...
-         		<lb n="2" break="no"/>...
+         		matirai koṇṭa <supplied reason="lost">kō-p-para</supplied>kēca<supplied reason="lost">r</supplied>i-va<unclear>r</unclear>mmarkku yāṇṭu pa<choice><orig>ṉ</orig><reg>ṉṉ</reg></choice>ira<supplied reason="omitted">ṇ</supplied>ṭu Āvatu
+         	</p>
+	
+	<p>
+		Uttiramēru-c<unclear>·</unclear>-catu<supplied reason="omitted">r</supplied>vvedi<choice><orig>mm</orig><reg>m</reg></choice>aṅ<unclear>·</unclear>kalattu sabhaiyōm
+		Ivv-āṇṭu mutal
+		Eṅkaḷ ūr śrī-mukappaṭi
+		Āñai
+		<lb n="2" break="no"/>yi<unclear reason="eccentric_ductus">ṉ</unclear>āl tattanū<unclear>r m</unclear><choice><orig>u</orig><reg>ū</reg></choice>vē<unclear>nta</unclear>vēḷāṉ Iruntu
+		vāriyam-āka Āṭṭ’ oru-k-kālum sa<choice><sic>mma</sic><corr>m</corr></choice>v<choice><sic>ā</sic><corr>a</corr></choice>t<unclear>·</unclear>sara-vāriyamun tōṭṭa-vāriyamum Ēri<surplus>ṭu</surplus>-vāriyamum Iṭuvata<unclear>ṟ</unclear>ku vyavasthai cey
+		<lb n="3" break="no"/>ta paric' āvatu
          	</p>
          	
+         	<p>...</p>
                   	
          </div>
 
 <div type="apparatus">
 
 	<listApp>
-		<app loc="0">
+		
+		<!--<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:Venkayya1908_01">...</rdg>
-		</app>
+		</app>-->
 		
+		<app loc="2">
+			<lem>Iṭuvata<unclear>ṟ</unclear>ku</lem>
+			<rdg source="bib:Venkayya1908_01">...</rdg>
+			<note>The letter <foreign><unclear>ṟ</unclear></foreign> seems to have been corrected from <foreign>ka</foreign>.</note>
+		</app>
 		
 	</listApp>
 	
