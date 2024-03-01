@@ -90,16 +90,16 @@
 	</ab>     
 	
          	<p>
-         		matirai koṇṭa <supplied reason="lost">kō-p-para</supplied>kēca<supplied reason="lost">r</supplied>i-va<unclear>r</unclear>mmarkku yāṇṭu pa<choice><orig>ṉ</orig><reg>ṉṉ</reg></choice>ira<supplied reason="omitted">ṇ</supplied>ṭu Āvatu
+         		mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa <supplied reason="lost">kō-p-para</supplied>kēca<supplied reason="lost">r</supplied>i-va<hi rend="grantha"><unclear>r</unclear>mma</hi>rkku yāṇṭu pa<choice><orig>ṉ</orig><reg>ṉṉ</reg></choice>ira<supplied reason="omitted">ṇ</supplied>ṭu Āvatu
          	</p>
 	
 	<p>
-		Uttiramēru-c<unclear>·</unclear>-catu<supplied reason="omitted">r</supplied>vvedi<choice><orig>mm</orig><reg>m</reg></choice>aṅ<unclear>·</unclear>kalattu sabhaiyōm
+		Uttiramēru-c<unclear>·</unclear>-catu<hi rend="grantha"><supplied reason="omitted">r</supplied>vvedi<choice><orig>mm</orig><reg>m</reg></choice>a</hi>ṅ<unclear>·</unclear>kalattu <hi rend="grantha">sabhai</hi>yōm
 		Ivv-āṇṭu mutal
-		Eṅkaḷ ūr śrī-mukappaṭi
-		Āñai
+		Eṅkaḷ ūr <hi rend="grantha">śrī-mu<choice><orig>ka</orig><reg>kha</reg></choice></hi>-p paṭi
+		<hi rend="grantha">Āñai</hi>
 		<lb n="2" break="no"/>yi<unclear reason="eccentric_ductus">ṉ</unclear>āl tattanū<unclear>r m</unclear><choice><orig>u</orig><reg>ū</reg></choice>vē<unclear>nta</unclear>vēḷāṉ Iruntu
-		vāriyam-āka Āṭṭ’ oru-k-kālum sa<choice><sic>mma</sic><corr>m</corr></choice>v<choice><sic>ā</sic><corr>a</corr></choice>t<unclear>·</unclear>sara-vāriyamun tōṭṭa-vāriyamum Ēri<surplus>ṭu</surplus>-vāriyamum Iṭuvata<unclear>ṟ</unclear>ku vyavasthai cey
+		vāriyam-āka Āṭṭ’ oru-k-kālum <hi rend="grantha">sa<choice><sic>mma</sic><corr>m</corr></choice></hi>v<choice><sic>ā</sic><corr>a</corr></choice><hi rend="grantha">t<unclear>·</unclear>sara</hi>-vāriyamun tōṭṭa-vāriyamum Ēri<surplus>ṭu</surplus>-vāriyamum Iṭuvata<unclear>ṟ</unclear>ku <hi rend="grantha">vya</hi>va<hi rend="grantha">sthai</hi> cey
 		<lb n="3" break="no"/>ta paric' āvatu
          	</p>
          	
@@ -118,7 +118,7 @@
 		
 		<app loc="2">
 			<lem>Iṭuvata<unclear>ṟ</unclear>ku</lem>
-			<rdg source="bib:Venkayya1908_01">...</rdg>
+			<rdg source="bib:Venkayya1908_01">Iṭuvataṟku</rdg>
 			<note>The letter <foreign><unclear>ṟ</unclear></foreign> seems to have been corrected from <foreign>ka</foreign>.</note>
 		</app>
 		
@@ -126,14 +126,29 @@
 	
 </div>
 
-         <!--<div type="translation" resp="part:emfr">
+        
+<div type="translation" resp="part:emfr">
          	
-         </div>-->
+         	<p n="1">
+         		Prosperity! Fortune!
+         	</p>
+       
+	<p n="1">
+		12th year of the king Parakesarivarman who took Maturai.
+	</p>
+	
+	<p n="1-3">
+		This is the manner <supplied reason="explanation"><foreign>pāric' āvatu</foreign></supplied>,
+		which We, the members of the assembly of Uttirameruccaturvvedimaṅgala,
+		made a deliberation / settlement <supplied reason="explanation"><foreign><hi rend="grantha">vya</hi>va<hi rend="grantha">sthai</hi></foreign></supplied>,
+		according to a royal order <supplied reason="explanation"><foreign><hi rend="grantha">śrī-mu<choice><orig>ka</orig><reg>kha</reg></choice></hi>p paṭi</foreign></supplied><note>Alternatively: "according to a royal order <supplied reason="subaudible">sent to / of / concerning</supplied> our village".</note>,
+		Tattanūr Mūvēntavēḷāṉ sitting <supplied reason="subaudible">with us</supplied>, according to this order <supplied reason="explanation"><foreign><hi rend="grantha">Āñai</hi>-y-iṉ-āl</foreign></supplied>, 
+		so as to establish <supplied reason="explanation"><foreign>iṭuvataṟku</foreign><note>Literally: "to put".</note></supplied>,
+		from this year onwards, <supplied reason="subaudible">in</supplied> our village, as committees <supplied reason="explanation"><foreign>vāriyam-āka</foreign></supplied>, one time <supplied reason="explanation"><foreign>oru-k-kālum</foreign></supplied> per year <supplied reason="explanation"><foreign>āṭṭu</foreign></supplied>, the annual committee <supplied reason="explanation"><foreign><hi rend="grantha">samvatsara</hi>-vāriyam</foreign></supplied>, the garden committee <supplied reason="explanation"><foreign>tōṭṭa-vāriyam</foreign></supplied>, and the tank committee <supplied reason="explanation"><foreign>ēri-vāriyam</foreign></supplied>.
+	</p>	
+</div>
       	
-         <!--<div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>-->
-      	
+             	
 <div type="translation" source="bib:Venkayya1908_01">
          	
          	<p>...</p>
