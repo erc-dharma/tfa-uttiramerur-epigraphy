@@ -8,7 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 11, day 324</title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 11,
+					day 324</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -94,7 +95,63 @@
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 		<lb n="1"/>svasti śrī
 	</ab>
+	<p>
+		kō-pā<choice><orig>tti</orig><reg>rtti</reg></choice>vēntirātipati-va<hi rend="grantha"><supplied reason="omitted">n</supplied>ma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num>-ḷ <num value="320">3 <g type="numeral">100</g> 2 <g type="numeral">10</g> 4</num>
+	</p>
+	<p>
+		kāliyūr-kōṭṭattu ta<choice><orig>n</orig><reg>ṉ</reg></choice>-kūṟṟu
+		Uttara-mēru-cata<hi rend="grantha">vye</hi>ti-maṅkalatu peruṅ kuṟi
+		<hi rend="grantha">sabhai</hi>yōm Eṅkaḷūr-t tiru<hi rend="grantha">vai</hi>yo<hi rend="grantha">dyai</hi>
+		perumān-aṭikaḷukku Uṭ<hi rend="grantha">ai</hi>yār
+		<hi rend="grantha">de</hi><supplied reason="undefined">vi</supplied>yār
+		villavaṉ-<hi rend="grantha">māhade</hi>viyār tām Eḻunt-aruḷuvitta tiru-mēṉikkum <hi rend="grantha">śī</hi>-
+		kōyilukkum <hi rend="grantha">śī-bali</hi>kkum
+		<hi rend="grantha">Arcca</hi>nā<hi rend="grantha">bhoga</hi>ttukkum vaitta
+		<hi rend="grantha">bhūmi</hi>
+	</p>
+	<p>
+		Uttara-mēru-vatiyiṉ mēṟkku mutaṟ-k kaṇṇāṟu
+		<hi rend="grantha">sarasu</hi>vati-vākkāli<supplied reason="undefined">ṉ</supplied> vaṭakku
+		<lb n="2"/>nālā<supplied reason="undefined">ṅ</supplied> cātukkattum Añcāñ catukkattum Āṟāñ catukkattu<supplied reason="omitted">m</supplied>
+		Āka talaitaraṅ kuḻi Āyirattu Eḻu-nūṟṟu Aṟupatu vayira-mēka-vatiyiṉ teṟkku
+		Amaṉi-nārāyaṇa-vatikku mēṟkku Iraṇṭāṅ kaṇṇāṟṟu Añcā<supplied reason="omitted">ñ</supplied> catu<supplied reason="omitted">k</supplied>kattu talaitaraṅ kuḻi Eḻu-nūṟṟu nāṟ-patu <supplied reason="undefined">va</supplied>yira-mēka-<supplied reason="undefined">va</supplied>tiyiṉ teṟ<supplied reason="undefined">k</supplied>ku
+		nālāṅ kaṇṇāṟṟu Avani-nāraṇa-vatiyiṉ mēṟkku Iraṇṭā<supplied reason="omitted">ñ</supplied> catukkattu
+		talaita<supplied reason="omitted">ra</supplied>ṅ kuḻi nā-nūṟṟu Irupatum Āka kuḻi Iraṇṭ’ āyirattu toḷḷā
+		<lb n="3" break="no"/>yirattu Irupatum
+		<hi rend="grantha">de</hi>viyār villavaṉ
+		<hi rend="grantha">māhade</hi>vi-y-āriṭai <hi rend="grantha">pūvvajā</hi>ra<supplied reason="undefined">ṅ</supplied> ko<supplied reason="omitted">ṇṭu</supplied>
+		<hi rend="grantha">cantrā</hi>tittavaṟ<surplus>kku</surplus> Iṟai-y-ili-y-āka-p paṇittōm
+		peruṅ-kuṟi <hi rend="grantha">sabhai</hi>yōm 
+	</p>
+	<p>
+		I<hi rend="grantha">śa</hi>mattukku virōtam niṉṟārai
+		<hi rend="grantha"><supplied reason="undefined">śra</supplied></hi><surplus>t</surplus><hi rend="grantha">ddhāmantarē</hi> Irupat<surplus>tu</surplus>t’ aiñ-kaḻañ<supplied reason="undefined">cu po</supplied>ṉ
+		<hi rend="grantha">da</hi>ṇṭa-paṭuvat’ āka<supplied reason="omitted">vu</supplied><supplied reason="undefined">m</supplied>
+	</p>
+	<p>
+		I-ta<hi rend="grantha">nma<supplied reason="omitted">m</supplied> rakṣi</hi>ppār
+		<hi rend="grantha">śri-pādadhūḷi</hi>
+		I-pa<hi rend="grantha">ma</hi>ñ ceyta
+		villavaṉ<hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>hā-de</hi>viyār tiru-muṭi mēla<choice><orig>n</orig><reg>ṉ</reg></choice>a v-ākavum
+	</p>
+	<p>	I-<hi rend="grantha">dhanma</hi>ttukku
+		<hi rend="grantha">a</hi>yt’ anṟeṉṟār
+		<hi rend="grantha">ge</hi>ṅ<supplied reason="omitted">k</supplied>ai <supplied reason="undefined">Iṭai</supplied>
+		<lb n="4"/>kumari-<supplied reason="omitted">-y-i</supplied>ṭai c<supplied reason="undefined">e</supplied>tār c<choice><orig>e</orig><reg>ey</reg></choice>ta pāvam paṭuka
+	</p>
+	<p>
+		Ip-paricu Iṟai-y-iḻicci <hi rend="grantha">ś</hi>lā-<hi rend="grantha">lekhai</hi>
+		ceytu kuṭu<supplied reason="omitted">t</supplied>tōm Uttara-mēllu-catu<hi rend="grantha">vye</hi>ti-maṅkalattu p(o)ruṅ-kuṟi
+		<hi rend="grantha">sabhai</hi>yō<supplied reason="omitted">m</supplied>
+	</p>
+	<p>
+		mā<hi rend="grantha">sabhai</hi>yuḷḷ iruntu
+		<hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>hāsabhai</hi> paṇakka E<supplied reason="undefined">ḻu</supplied>tinēṉ <hi rend="grantha">madhyasta</hi>n <hi rend="grantha"><supplied reason="undefined">śi</supplied>va-dāsa</hi>n Ayyā<supplied reason="omitted">yira</supplied>tt-iru-nūṟṟuva-<hi rend="grantha"><supplied reason="undefined">bra</supplied>hma-<supplied reason="undefined">pri</supplied></hi>yaṉēn
+	</p>
 	
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<supplied reason="undefined">śrī</supplied> <g type="gomutraFinal">.</g>
+	</ab>	
 	
 </div>
 
@@ -114,14 +171,13 @@
 <div type="translation" source="bib:KrishnaSastri1920_01">
 	
 	<!--Update to DHARMA transliteration scheme.-->
-	
-	
+		
 </div>
 			
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>	
-	<p n="1">year 11 ...</p>
+	<p n="1">Year 11 ...</p>
 
 </div>
 			
