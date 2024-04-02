@@ -8,7 +8,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 13</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year
+					13</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -83,7 +84,7 @@
 			<change who="part:emfr" when="2024-02-18" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-<text xml:space="preserve">
+	<text xml:space="preserve">
 <body>
 			
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
@@ -134,14 +135,16 @@
 <div type="translation" source="bib:KrishnaSastri1920_01">
 	
 	<p n="1">Hail! Prosperity!</p>	
-	<p n="1">In the 13th year of <supplied reason="subaudible">the reign of</supplied> king ...</p>	
-	<p n="1-4">...</p>	
-	<p n="5-6">...</p>
+	<p n="1-4">In the 13th year of <supplied reason="subaudible">the reign of</supplied> king Pārthivendrādhipativarman, the queen consort Tribhuvaṉa-Mahādēviyār gave for two perpetual lamps to <supplied reason="subaudible">the god</supplied> Veḷḷaimūrti-Perumāṉaḍigaḷ in the <foreign>śrīkōil</foreign> of Koṅgaraiyar at Uttaramēru-chaturvēdimaṅgalam, <supplied reason="subaudible">a village</supplied> in its <supplied reason="subaudible">own</supplied> subdivision in Kāliyūr-kōṭṭam, 96 sheep which neither die nor grow old placing them in charge of the cultivators <supplied reason="explanation">veḷḷāḷar</supplied> of the different quarters <supplied reason="explanation"><foreign>paṉmaiccēri</foreign></supplied> <supplied reason="subaudible">of this village</supplied> on condition that they would themselves protect and maintain <supplied reason="subaudible">the lamps</supplied> as long as the moon and the sun <supplied reason="subaudible">endure</supplied>.</p>
+	<p n="4-5">
+		<supplied reason="subaudible">She again gave</supplied> 96 sheep which neither die nor grow old in charge of the merchants of the middle bazaar <supplied reason="explanation"><foreign>naṭuvilaṅkāṭi</foreign></supplied> who also agreed to protect andmaintain <supplied reason="subaudible">the lamps</supplied> as long as the moon and the sun <supplied reason="subaudible">endure</supplied>.
+	</p>
+	<p n="5-6">These same would <supplied reason="subaudible">thus</supplied>protect the sheep <supplied reason="subaudible">given on account</supplied> of these two lamps and cause to be measured out dailywithout fail one <foreign>uri</foreign> of ghee for <supplied reason="subaudible">maintaining</supplied> the perpetual lamps.
+	</p>
+	<p n="6-7">This gift was placed under the supervision <supplied reason="explanation"><foreign>kaṭaikāṭci</foreign></supplied> <supplied reason="subaudible">of these two communities</supplied>.
+	</p>
+	<p n="7">If the sheep thus presented are not supervised, the temple servants <supplied reason="explanation"><foreign>dēvaraṭiyār</foreign></supplied> themselves <gap reason="lost"/> of one <foreign>mañcāṭi</foreign> of gold daily to <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, on behalf of</supplied> the then-reigning king.</p>	
 	
-	<p n="6-7">...</p>
-	
-	<p n="7">...</p>
-
 </div>
 			
 <div type="translation" resp="part:emfr">
