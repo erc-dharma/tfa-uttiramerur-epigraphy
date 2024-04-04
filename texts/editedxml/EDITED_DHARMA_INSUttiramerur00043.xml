@@ -54,6 +54,7 @@
                   <handDesc>
                      <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
 								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                     <p>The <foreign>puḷḷi</foreign> is marked in certain cases (SII 4, p. 370, fn. 4).</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -97,7 +98,7 @@
 	</ab>
 	
 	<p>		
-		kō-p-pā<hi rend="grantha"><choice><orig>tthi</orig><reg>rtthi</reg></choice></hi>vēn<hi rend="grantha">trādhipa</hi>ti-va<hi rend="grantha">rmma</hi>ṟku yāṇṭu <num value="12"><g type="numeral">10</g> 2</num>-ḷ <num value="326">3 <g type="numeral">100</g> 2 <g type="numeral">10</g> 6</num>
+		kō-p-pā<hi rend="grantha"><choice><orig/><reg>r</reg></choice></hi>tthivēn<hi rend="grantha">trādhipa</hi>ti-va<hi rend="grantha">rmma</hi>ṟku yāṇṭu <num value="12"><g type="numeral">10</g> 2</num>-ḷ <num value="326">3 <g type="numeral">100</g> 2 <g type="numeral">10</g> 6</num>
 	</p>
 	<p>		
 		Uttara-mēru<hi rend="grantha">-c-ca</hi>tu<hi rend="grantha">rvvedi</hi>-maṅkalattu-k koṅkaraiyar
@@ -124,7 +125,7 @@
 		kuḻikkum
 		Ut=ta<hi rend="grantha">ra-meru</hi>-catu<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti-maṅkalattu <hi rend="grantha">mahāsabhai</hi>yōm
 		<lb n="5"/>nam pirāṭṭiyār <hi rend="grantha">tri-bhuva</hi>na-<hi rend="grantha">mahāde</hi>viyār pakkal
-		<hi rend="grantha">pūvvājāram</hi> koṇṭu
+		<hi rend="grantha">pū<choice><orig/><reg>r</reg></choice>vvā<choice><orig>j</orig><reg>c</reg></choice>āram·</hi> koṇṭu
 		<hi rend="grantha"><choice><orig>ś</orig><reg>c</reg></choice>an<choice><orig>t</orig><reg>d</reg></choice>rāti</hi>tta-val Iṟai-y-iḻicci Iṟai-y-ili-y-āka-p paṇittōm
 	</p>
 	<p>
@@ -140,8 +141,8 @@
 	</p>
 	<p>
 		I<hi rend="grantha">d-dha<supplied reason="omitted">r</supplied>mma</hi>ttukku
-		vi<hi rend="grantha">rodha</hi>ñ ceytārai meyveṟṟūvakai<!--EF: split/meaning?-->
-		Irupa<supplied reason="omitted">t</supplied>t’ aiñ-kaḻañcu poṉ
+		vi<hi rend="grantha">rodha</hi>ñ ceytārai meyveṟṟ<choice><orig>ū</orig><reg>u</reg></choice>vakai<!--EF: split/meaning?-->
+		Iru-pa<supplied reason="omitted">t</supplied>t’ ai<choice><orig>ñ</orig><reg>ṅ</reg></choice>-kaḻañcu poṉ
 		<hi rend="grantha">śraddhāma</hi>n=ta<hi rend="grantha">rē d<choice><sic>e</sic><corr>a</corr></choice></hi>ṇṭam iṭa-p peṟuvār ākavum
 	</p>
 	<p>
@@ -169,33 +170,53 @@
 	</ab>	
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
 				
 	<listApp>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1920_01">...</rdg>
+			
+		<app loc="9">
+			<lem><hi rend="grantha"><choice><sic>ś=</sic><corr>śi</corr></choice></hi>lā-<hi rend="grantha">lekhai</hi></lem>
+			<rdg source="bib:KrishnaSastri1920_01"><hi rend="grantha"><choice><sic>śvā</sic><corr>śilā</corr></choice></hi><hi rend="grantha">lekhai</hi></rdg>
+			<note>Possibly a typo in <ptr target="bib:KrishnaSastri1920_01"/>.</note>
+		</app>		
+				
+		<app loc="10">
+			<lem><choice><orig><supplied reason="undefined">A</supplied><supplied reason="omitted">y</supplied></orig><reg>Ai</reg></choice>-y-āyira<supplied reason="omitted">t</supplied>t-iru°</lem>
+			<rdg source="bib:KrishnaSastri1920_01"><supplied reason="undefined">A</supplied><supplied reason="omitted">y</supplied>yāyira<supplied reason="omitted">t</supplied>tiru</rdg>
 		</app>
 		
 	</listApp>
-	
-</div>-->
+		
+</div>
 	
 <div type="translation" source="bib:KrishnaSastri1920_01">
+
+	<p n="1">Hail! Prosperity! In the 12th year and 326th day of <supplied reason="subaudible">the reign of</supplied> king Pārthivēndrādhipativarman, queen, Tribhuvana-Mahādeviyār, purchased from the ryots of Uttaramēru-caturvēdimaṅkgalam and gave the following lands for sounding <supplied reason="subaudible">drums</supplied> at the <foreign>śrībali</foreign> <supplied reason="subaudible">ceremony</supplied> to the god <supplied reason="subaudible">in the temple</supplied> of Śrīveli-Vishṇugr̥ha which Koṅgaraiyar had constructed in this village:—</p>
 	
-	<!--Update to DHARMA transliteration scheme.-->
-	<p n="1">Hail! Prosperity! In the 12th year and 326th day of <supplied reason="subaudible">the reign of</supplied> king Pārthivēndrādhipativarman, queen, Tribhuvana-Mahādēviyār, purchased from the ryots of Uttaramēru-chaturvēdimaṅgalam and gave the following lands for sounding <supplied reason="subaudible">drums</supplied> at the <foreign>śrībali</foreign> <supplied reason="subaudible">ceremony</supplied> to the god <supplied reason="subaudible">in the temple</supplied> of Śrīveli-Vishṇugr̥ha which Koṅgaraiyar had constructed in this village:—</p>
-	
-	<p>810 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the first <foreign>śadukkam</foreign> <supplied reason="subaudible">situated</supplied> to the west of <supplied reason="subaudible">the path called </supplied>Uttaramēru-vadi of the fifth <foreign>kaṇṇāṟu</foreign> to the south of <supplied reason="subaudible">the channel called</supplied> Subrahmaṇya-vāykkāl; 120 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> of the second <foreign>śadukkam</foreign> in the same place; 760 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the third <foreign>śadukkam</foreign> in the same place; 240 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the fourth <foreign>śadukkam</foreign> in the same place; 453 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the third <foreign>śadukkam</foreign> of the 4th <foreign>kaṇṇāṟu</foreign> in the same place; and 112 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the fourth <foreign>śadukkam</foreign> in the same place. For <supplied reason="subaudible">these</supplied> 2,495 <foreign>kuḻi</foreign>s in all, we <supplied reason="subaudible">the members</supplied> of the big assembly of Uttaramēru-chaturvēdimaṅgalam, having received <foreign>pūrvāchāram</foreign> from queen Tribhuvana-Mahādēviyār, deducted the taxes as long the moon and the sun <supplied reason="subaudible">last</supplied>, and ordered <supplied reason="subaudible">the lands</supplied> to be tax-free. In order to sound <supplied reason="subaudible">drums</supplied> at the three <foreign>sandhi</foreign>s of the day <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, morning, midday and evening</supplied> during the <foreign>śrībali</foreign> <supplied reason="subaudible">ceremony</supplied> and at the waking up <supplied reason="subaudible">of the image</supplied> from bed, out of <supplied reason="subaudible">the income accruing from</supplied> these lands, we gave <supplied reason="subaudible">these lands</supplied> as <foreign>śrībalipuṟam</foreign>, freed from <supplied reason="subaudible">the payment of</supplied> taxes and had <supplied reason="subaudible">this edict</supplied> engraved on stone.</p>
-	<p n="7">The <foreign>śraddhāmantas</foreign> shall themselves impose a fine of twenty-five <foreign>kaḻañcu</foreign>s of gold on each person who obstructs this charity. <supplied reason="subaudible">Even after</supplied> paying this fine, they shall not obstruct this charity. Those who obstruct shall incur the sins committed by sinners <supplied reason="subaudible">living</supplied> between Gaṅgā (the Ganges) and Kumari (Cape Comorin). They <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, the members of the assembly</supplied> shall not show any kind of tax, <foreign>eccōṟu</foreign>, <foreign>veṭṭi</foreign> and <foreign>amañci</foreign> against these lands. We <supplied reason="subaudible">the members</supplied> of the big assembly of Uttaramēru-chaturvēdimaṅgalam, thus made <supplied reason="subaudible">the lands</supplied> tax-free and had <supplied reason="subaudible">the edict</supplied> engraved on stone. I, Śivadāsaṉ Aiyāyirattirunūṟṟuva-Brahmapriyaṉ, an arbitrator <supplied reason="explanation"><foreign>madhyasthaṉ</foreign></supplied> of this village, and one of the <supplied reason="subaudible">members of the</supplied> assembly, wrote this at thecommand <supplied reason="subaudible">of the assembly</supplied>. Prosperity!</p>
+	<p n="2">810 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the first <foreign>catukkam</foreign> <supplied reason="subaudible">situated</supplied> to the west of <supplied reason="subaudible">the path called</supplied> Uttaramēru-vati of the fifth <foreign>kaṇṇāṟu</foreign> to the south of <supplied reason="subaudible">the channel called</supplied> Subrahmaṇya-vāykkāl; 120 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> of the second <foreign>catukkam</foreign> in the same place; 760 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the third <foreign>catukkam</foreign> in the same place; 240 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the fourth <foreign>catukkam</foreign> in the same place; 453 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the third <foreign>catukkam</foreign> of the 4th <foreign>kaṇṇāṟu</foreign> in the same place; and 112 <supplied reason="subaudible"><foreign>kuḻi</foreign>s</supplied> in the fourth <foreign>catukkam</foreign> in the same place. For <supplied reason="subaudible">these</supplied> 2,495 <foreign>kuḻi</foreign>s in all, we <supplied reason="subaudible">the members</supplied> of the big assembly of Uttaramēru-caturvēdimaṅkalam, having received <foreign>pūrvācāram</foreign> from queen Tribhuvana-Mahādeviyār, deducted the taxes as long the moon and the sun <supplied reason="subaudible">last</supplied>, and ordered <supplied reason="subaudible">the lands</supplied> to be tax-free. In order to sound <supplied reason="subaudible">drums</supplied> at the three <foreign>sandhi</foreign>s of the day <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, morning, midday and evening</supplied> during the <foreign>śrībali</foreign> <supplied reason="subaudible">ceremony</supplied> and at the waking up <supplied reason="subaudible">of the image</supplied> from bed, out of <supplied reason="subaudible">the income accruing from</supplied> these lands, we gave <supplied reason="subaudible">these lands</supplied> as <foreign>śrībalipuṟam</foreign>, freed from <supplied reason="subaudible">the payment of</supplied> taxes and had <supplied reason="subaudible">this edict</supplied> engraved on stone.</p>
+	<p n="7">The <foreign>śraddhāmantas</foreign> shall themselves impose a fine of twenty-five <foreign>kaḻañcu</foreign>s of gold on each person who obstructs this charity. <supplied reason="subaudible">Even after</supplied> paying this fine, they shall not obstruct this charity. Those who obstruct shall incur the sins committed by sinners <supplied reason="subaudible">living</supplied> between Gaṅgā (the Ganges) and Kumari (Cape Comorin). They <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, the members of the assembly</supplied> shall not show any kind of tax, <foreign>eccōṟu</foreign>, <foreign>veṭṭi</foreign> and <foreign>amañci</foreign> against these lands. We <supplied reason="subaudible">the members</supplied> of the big assembly of Uttaramēru-caturvēdimaṅkalam, thus made <supplied reason="subaudible">the lands</supplied> tax-free and had <supplied reason="subaudible">the edict</supplied> engraved on stone. I, Śivadāsaṉ Aiyāyirattirunūṟṟuva-Brahmapriyaṉ, an arbitrator <supplied reason="explanation"><foreign>madhyasthaṉ</foreign></supplied> of this village, and one of the <supplied reason="subaudible">members of the</supplied> assembly, wrote this at the command <supplied reason="subaudible">of the assembly</supplied>. Prosperity!</p>
 		
 </div>
 			
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>	
-	<p n="1">Year 12 ...</p>
+	<p n="1"><supplied reason="subaudible">Day</supplied> 326 in the year 12 of the king Pārthivendrādhipativarman.</p>
+	<p n="1-3">For the beating <supplied reason="subaudible">at the time of</supplied>
+		...,
+		the lands that
+	Tribhuvanamahādevi, his queen, has given,
+	after buying them from the ryots of this village <supplied reason="subaudible">are</supplied> these, <supplied reason="subaudible">as follows</supplied>.</p>
+	
+	<p n="3-5">
+		So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>
+		<list><item>...</item></list>
+	</p>
+	<p n="5-7">These lands
+	...
+	We have given
+	...
+	</p>
 
 </div>
 			
