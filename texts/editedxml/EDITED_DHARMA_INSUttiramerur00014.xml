@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 6</title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of <reg>Pārthivendra</reg> Mahārāja, year 2</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSUttiramerur00035</idno>
+            <idno type="filename">DHARMA_INSUttiramerur00014</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -51,8 +51,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, 	nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -83,7 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr" when="2024-04-03" status="draft">Creation of the file</change>
+         <change who="part:emfr" when="2024-04-04" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -93,81 +92,33 @@
 				
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<p>			
-		<lb n="1"/><hi rend="grantha">pā</hi>ṇṭiyaṉai talai koṇṭa
-pā<hi rend="grantha"><supplied reason="undefined">r</supplied>tthi</hi>ve<hi rend="grantha">ndrā</hi>ti<hi rend="grantha">pa</hi>ti<hi rend="grantha">varma</hi>ṟku yāṇṭu 6-vatu
-	</p>
-	<p>
-		kāliyūr-kōṭṭa<supplied reason="undefined">t</supplied>tu taṉ-kūṟṟ’ uttara-mēru-c-catu<hi rend="grantha"><supplied reason="undefined">r</supplied>ve</hi>ti-maṅkala<supplied reason="omitted">t</supplied>tu <hi rend="grantha">sabhai</hi>yōm
-		<lb n="2"/>Eḻuttu
-	</p>
-	<p>
-		Emm-ūr-t ti<supplied reason="undefined">ruvu</supplied>ṉṉa-Ūr-p perumāṉ-aṭikaḷukku
-		<hi rend="grantha">śrī-<supplied reason="undefined">ba</supplied>li<supplied reason="undefined">bh</supplied>oga</hi>ttukku Āka-k kāñci-purattu Ira<supplied reason="omitted">ṇa</supplied>vira-p-pāṭi
-		<hi rend="grantha">śa</hi>n<hi rend="grantha">tra</hi>ṉ Ēḻu-ṉūṟṟuva<choice><orig>n</orig><reg>ṉ</reg></choice>-ākiya ṉuḷampa māyi<supplied reason="omitted">la</supplied>ṭ
-		<lb n="3" break="no"/>ṭi namm-ūr viḻulimāy-k kiṭanta nilattil <hi rend="grantha">śrī-belibhoga</hi>m-āka-k koṇ<supplied reason="undefined">ṭu</supplied> vaitta<hi rend="grantha">bhūmi</hi> y-āvaṉa
-			
-		<list>
+	</ab>	
 		
-		<item><hi rend="grantha">subrahmaṇya</hi>nār<supplied reason="omitted">ā</supplied>cattiṉ vaṭakku
-		<num value="14"><g type="numeral">10</g> 4</num> ka<supplied reason="omitted">ṇ</supplied>ṇāṟṟu
-		<hi rend="grantha"><supplied reason="undefined">pa</supplied>rameśva</hi>ra-vatiyiṉ mē
-		<lb n="4" break="no"/>ṟku 1 ca<supplied reason="omitted">tu</supplied>kkattu
-		<supplied reason="undefined">2</supplied>-ntaraṅ kuḻi <num value="240">2 <supplied reason="undefined"><g type="numeral">100</g></supplied> 4 <g type="numeral">10</g></num></item>
-		
-		<item><supplied reason="undefined">nā</supplied>ṟpatum
-		<hi rend="grantha">subrahmaṇya</hi>-nā<hi rend="grantha">rāśa</hi>ttiṉ vaṭakku
-		<num value="18"><g type="numeral">10</g> 8</num>
-		ka<supplied reason="omitted">ṇ</supplied>ṇāṟṟu kāvaṉūr Ēri-vāy-ē-y pō<choice><orig>n</orig><reg>ṉ</reg></choice>a vatiyiṉ m<supplied reason="undefined">ē</supplied>ṟku 8 catukkattu <supplied reason="undefined">2</supplied>taraṅ
-		<lb n="5" break="no"/>kuḻi
-		<num value="240">2 <supplied reason="undefined"><g type="numeral">100</g></supplied> 4 <g type="numeral">10</g></num>-m</item>
-		
-		<item><hi rend="grantha">subrahmaṇya-</hi>nār<supplied reason="omitted">ā</supplied><hi rend="grantha">śa</hi>ttiṉ vaṭakku
-		<num value="18"><g type="numeral">10</g> 8</num>
-		ka<supplied reason="undefined">ṇ</supplied>ṇāṟṟu-k kāvaṉūr Ēri-vāy-ē-y pō<supplied reason="undefined"><choice><orig>n</orig><reg>ṉ</reg></choice>a</supplied> vatiyiṉ mēṟku
-		8 catukkattu 2 n=taraṅ kuḻi <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num>
-		<lb n="6" break="no"/>-m </item>
-		
-		<item>śrī-tēvi-vāykkāliṉ teṟku
-		<num value="16"><g type="numeral">10</g> 6</num>-ṅ ka<supplied reason="omitted">ṇ</supplied>ṇāṟṟu-p pallava-nāra<supplied reason="undefined">ṇa</supplied>-vatiyiṉ kiḻakku
-		6-ñ catukkattu 4 n=taraṅ kuḻi <num value="300">3 <g type="numeral">100</g></num>m</item>
-		
-		<item><hi rend="grantha">subrahmaṇya</hi>-nā<hi rend="grantha">rāśa</hi>t<supplied reason="undefined">ti</supplied>ṉ vaṭakku
-		<num value="17"><g type="numeral">10</g> 7</num>-ṅ ka<supplied reason="omitted">ṇ</supplied>ṇāṟṟu māṟapiṭuku-vatiyaṉ kiḻa
-		<lb n="7" break="no"/>kku 9-m catukkattum
-		<num value="10"><g type="numeral">10</g></num>-ñ catukkattum-āka Iraṇṭāta
-		<num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num>-m</item>
-		
-		</list>
-	</p>
 </div>
 
 <!--<div type="apparatus">
 				
 	<listApp>
-		
+			
 		<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:KrishnaSastri1920_01">...</rdg>
 		</app>
 		
 	</listApp>
-	
+		
 </div>-->
 	
 <div type="translation" source="bib:KrishnaSastri1920_01">
-	
-	<!--Update to DHARMA transliteration scheme.-->
 
+	<p n="1">Hail! Prosperity!</p>
+		
 </div>
 			
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>	
-	<p n="1">6th year ...</p>
-
+	
 </div>
 			
 <div type="commentary">
@@ -176,16 +127,16 @@ pā<hi rend="grantha"><supplied reason="undefined">r</supplied>tthi</hi>ve<hi re
 			
 <div type="bibliography">
 				
-	<p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/20).</p>
-	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.182).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/88).</p>
+	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.152).</p>
 	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1903_01"/></bibl>.</p>
 		
 	<listBibl type="primary">
 		
 		<bibl n="SII">
 			<ptr target="bib:KrishnaSastri1920_01"/>
-			<citedRange unit="page">359-360</citedRange>
-			<citedRange unit="item">182</citedRange>
+			<citedRange unit="page">323-324</citedRange>
+			<citedRange unit="item">152</citedRange>
 		</bibl>
 		
 	</listBibl>
@@ -193,9 +144,9 @@ pā<hi rend="grantha"><supplied reason="undefined">r</supplied>tthi</hi>ve<hi re
 	<listBibl type="secondary">
 		<bibl>
 			<ptr target="bib:ARIE1897-1898"/>
-			<citedRange unit="page">16</citedRange>
+			<citedRange unit="page">18</citedRange>
 			<citedRange unit="appendix">B/1898</citedRange>
-			<citedRange unit="item">20</citedRange>
+			<citedRange unit="item">88</citedRange>
 		</bibl>	
 		
 	</listBibl>
