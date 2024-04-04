@@ -92,37 +92,50 @@
 	</ab>	
 	
 	<p>
-		v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭiya[ṉ talai k]oṇṭa kō-<hi rend="grantha">partmama</hi>hā<hi rend="grantha">rāja</hi>ṟku yāṇṭu Iraṇṭ-āvatu
+		v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭiya<supplied reason="undefined">ṉ talai k</supplied>oṇṭa kō-<hi rend="grantha">partma-ma</hi>hā<hi rend="grantha">rāja</hi>ṟku yāṇṭu Iraṇṭ-āvatu
 	</p>
 	<p>
-		kā[liyū]r-k-kōṭṭattu taṉ-kū[ṟṟ' u]ttaramēru-catu<hi rend="grantha">[r*]vve</hi> <gap reason="lost" quantity="9" unit="character"/>
-		<lb n="2"/><hi rend="grantha">ra-mēru</hi>vatiyiṉ meṟku mu[ta*]ṟ catukkattu Iraṇṭāntaraṅ kuḻi
-		Iru-nūṟṟu nāṟpatum Iṅkē talaittaraṅ kuḻi aiññūṟṟu Aṟupatum [I*]ṅkē mun
-		<gap reason="lost" quantity="12" unit="character"/>
-		<lb n="3"/>kku pati Ai[ñ]tāṅ ka[ṇ*]ṇāṟṟu Amani-nāraṇa-vatiyin mēṟkku Aiñtāñc catukkattu kamuku talaittara
-		<gap reason="lost" quantity="10" unit="character"/>
-		<lb n="4"/>liyāka-p paṇitetom pe(p)ruṅ-kuṟi
+		kā<supplied reason="undefined">liyū</supplied>r-k-kōṭṭattu taṉ-kū<supplied reason="undefined">ṟṟ' u</supplied>ttaramēru-catu<hi rend="grantha"><reg>r</reg>vve</hi>
+		<gap reason="lost" quantity="6" unit="character"/>
+		
+		<list>
+			<item><gap reason="lost" quantity="3" unit="character"/>
+			<lb n="2"/><hi rend="grantha">ra-mēru</hi>-vatiyiṉ mēṟku mu<supplied reason="omitted">ta</supplied>ṟ catukkattu Iraṇṭān taraṅ kuḻi Iru-nūṟṟu</item>
+			<item>nāṟ-patum 
+			Iṅkē talai-t taraṅ kuḻi Aiñ-ñūṟṟu Aṟu-patum
+			<supplied reason="omitted">I</supplied>ṅkē mun 	<gap reason="lost" quantity="12" unit="character"/>
+			<lb n="3"/>kku</item>
+			<item>pati Ai<supplied reason="undefined">ñ</supplied>tāṅ ka<supplied reason="undefined">ṇ</supplied>ṇāṟṟu Amani-nāraṇa-vatiyin mēṟkku Aiñtāñc catukkattu kamuku talai-t tara
+			<gap reason="lost" quantity="8" unit="character"/></item>
+		</list>
+		<gap reason="lost" quantity="2" unit="character"/>
+		<lb n="4" break="no"/>li-y-āka-p paṇit<surplus>e</surplus>tōm<!--EF note--> pe<surplus>p</surplus>ruṅ-kuṟi
 		<hi rend="grantha">sabhai</hi>yōm
 	</p>
 	<p>
-		Itu viro<hi rend="grantha">dha</hi>ñ ccey<hi rend="grantha">tārai dha[nm]āsana</hi>t<hi rend="grantha">te</hi>
+		Itu viro<hi rend="grantha">dha</hi>ñ ceca<!--EF note = cey-->y<hi rend="grantha">tārai dha<supplied reason="undefined">nm</supplied>āsa</hi>nattē<!--EF note-->
 		Iru-patt<hi rend="grantha">ai</hi>ṅ-kaḻañcu poṉ <hi rend="grantha">daṇḍa</hi>m mutpa
-		<gap reason="lost" quantity="7" unit="character"/>
-		<lb n="5"/><hi rend="grantha">bhai</hi>yār paṇikka <hi rend="grantha">sabhai</hi> Uḷ Iruṉtu E[ḻu*]tinēṉ Iv-ūr
-		<hi rend="grantha">madhyastha</hi>ṉ ci[va*]<hi rend="grantha">dāsa</hi>[ṉ]
-		<hi rend="grantha">brahma-pri</hi>yaneṉ I<hi rend="grantha">tte</hi>varkkut tirume[y]k[āva]lam
-		maṟṟum
+		<gap reason="lost" quantity="5" unit="character"/>
+	</p>
+	<p>
+		<gap reason="lost" quantity="2" unit="character"/>
+		<lb n="5"/><hi rend="grantha">bhai</hi>yār paṇikka <hi rend="grantha">sabhai</hi> Uḷ Iru<choice><orig>ṉ</orig><reg>n</reg></choice>tu E<supplied reason="omitted">ḻu</supplied>tinēṉ Iv-ūr
+		<hi rend="grantha">madhyastha</hi>ṉ ci<supplied reason="omitted">va</supplied>-<hi rend="grantha">dāsa</hi><supplied reason="undefined">ṉ</supplied>
+		<hi rend="grantha">brahma-pri</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
+	</p>
+	<p>
+		I<hi rend="grantha">t=-tē</hi>varkku-t tiru-me<supplied reason="undefined">y</supplied>k<supplied reason="undefined">āva</supplied>l<choice><sic>a</sic><corr>u</corr></choice>m maṟṟum
 		<gap reason="lost" quantity="10" unit="character"/>
-		<lb n="6"/>ṭiyum maṟṟum epeparlpa Iṟaiyum Ūrōm 	koḷḷa-p peṟātōm ākavum
+		<lb n="6"/>ṭiyum maṟṟum Epeparlpa<!--EF note--> Iṟaiyum Ūrōm koḷḷa-p peṟātōm ākavum
 	</p>
 	<p>
-		Ivvaṟai Epeparppaṭṭatum I<hi rend="grantha">deda</hi>varkku Iṟuppār ākavum
+		Ivvaṟai Epepa<!--EF note-->rppaṭṭatum I<hi rend="grantha">deda<!--EF note--></hi>varkku Iṟuppār ākavum
 	</p>
 	<p>
-		I[p*]-paricu vai[t*]tōm
+		I<supplied reason="omitted">p</supplied>-paricu vai<supplied reason="omitted">t</supplied>tōm
 	</p>
 	<p>
-		iti[ṟṟi*]ṟampiṉār <hi rend="grantha">ga</hi>[ṅ*]kai
+		Iti<supplied reason="omitted">ṟ ṟi</supplied>ṟampiṉār <hi rend="grantha">ga</hi><supplied reason="omitted">ṅ</supplied>kai
 		<gap reason="lost" quantity="8" unit="character"/>
 	</p>
 		
@@ -149,7 +162,7 @@
 		<gap reason="lost" quantity="5" unit="character"/>;
 		five hundred and sixty <foreign>kuḻi</foreign>s of first rate <supplied reason="subaudible">land</supplied> in this same place
 		<gap reason="lost" quantity="7" unit="character"/>;
-		in this same place <gap reason="lost" quantity="78" unit="character"/> of first rate areca <supplied reason="subaudible">land</supplied> in the fifth <foreign>catukkam</foreign> <supplied reason="subaudible">situated</supplied> to the west of <supplied reason="subaudible">the path called</supplied> Amaṉināraṇa-vati of the fifteenth <foreign>kaṇṇāṟu</foreign>
+		in this same place <gap reason="lost" quantity="7" unit="character"/> of first rate areca <supplied reason="subaudible">land</supplied> in the fifth <foreign>catukkam</foreign> <supplied reason="subaudible">situated</supplied> to the west of <supplied reason="subaudible">the path called</supplied> Amaṉināraṇa-vati of the fifteenth <foreign>kaṇṇāṟu</foreign>
 		<gap reason="lost" quantity="8" unit="character"/>
 		We <supplied reason="subaudible">the members</supplied> of the big assembly ordered <supplied reason="subaudible">to be</supplied> <supplied reason="lost">tax-free</supplied>
 		<gap reason="lost" quantity="4" unit="character"/>
@@ -162,7 +175,7 @@
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>	
-	
+	<p>...</p>
 </div>
 			
 <div type="commentary">
