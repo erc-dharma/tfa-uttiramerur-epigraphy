@@ -90,6 +90,41 @@
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 		<lb n="1"/>svasti śrī
 	</ab>	
+	
+	<p>
+		v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭiya[ṉ talai k]oṇṭa kō-<hi rend="grantha">partmama</hi>hā<hi rend="grantha">rāja</hi>ṟku yāṇṭu Iraṇṭ-āvatu
+	</p>
+	<p>
+		kā[liyū]r-k-kōṭṭattu taṉ-kū[ṟṟ' u]ttaramēru-catu<hi rend="grantha">[r*]vve</hi> <gap reason="lost" quantity="9" unit="character"/>
+		<lb n="2"/><hi rend="grantha">ra-mēru</hi>vatiyiṉ meṟku mu[ta*]ṟ catukkattu Iraṇṭāntaraṅ kuḻi
+		Iru-nūṟṟu nāṟpatum Iṅkē talaittaraṅ kuḻi aiññūṟṟu Aṟupatum [I*]ṅkē mun
+		<gap reason="lost" quantity="12" unit="character"/>
+		<lb n="3"/>kku pati Ai[ñ]tāṅ ka[ṇ*]ṇāṟṟu Amani-nāraṇa-vatiyin mēṟkku Aiñtāñc catukkattu kamuku talaittara
+		<gap reason="lost" quantity="10" unit="character"/>
+		<lb n="4"/>liyāka-p paṇitetom pe(p)ruṅ-kuṟi
+		<hi rend="grantha">sabhai</hi>yōm
+	</p>
+	<p>
+		Itu viro<hi rend="grantha">dha</hi>ñ ccey<hi rend="grantha">tārai dha[nm]āsana</hi>t<hi rend="grantha">te</hi>
+		Iru-patt<hi rend="grantha">ai</hi>ṅ-kaḻañcu poṉ <hi rend="grantha">daṇḍa</hi>m mutpa
+		<gap reason="lost" quantity="7" unit="character"/>
+		<lb n="5"/><hi rend="grantha">bhai</hi>yār paṇikka <hi rend="grantha">sabhai</hi> Uḷ Iruṉtu E[ḻu*]tinēṉ Iv-ūr
+		<hi rend="grantha">madhyastha</hi>ṉ ci[va*]<hi rend="grantha">dāsa</hi>[ṉ]
+		<hi rend="grantha">brahma-pri</hi>yaneṉ I<hi rend="grantha">tte</hi>varkkut tirume[y]k[āva]lam
+		maṟṟum
+		<gap reason="lost" quantity="10" unit="character"/>
+		<lb n="6"/>ṭiyum maṟṟum epeparlpa Iṟaiyum Ūrōm 	koḷḷa-p peṟātōm ākavum
+	</p>
+	<p>
+		Ivvaṟai Epeparppaṭṭatum I<hi rend="grantha">deda</hi>varkku Iṟuppār ākavum
+	</p>
+	<p>
+		I[p*]-paricu vai[t*]tōm
+	</p>
+	<p>
+		iti[ṟṟi*]ṟampiṉār <hi rend="grantha">ga</hi>[ṅ*]kai
+		<gap reason="lost" quantity="8" unit="character"/>
+	</p>
 		
 </div>
 
@@ -108,7 +143,19 @@
 	
 <div type="translation" source="bib:KrishnaSastri1920_01">
 
-	<p n="1">Hail! Prosperity!</p>
+	<p n="1">Hail! Prosperity! In the 2nd year of <supplied reason="subaudible">the reign of</supplied> king Partma <supplied reason="explanation"><hi rend="italic">i.e.</hi>, Pārthivēndra</supplied>-Mahārāja who took the head of Vīra-Pāṇḍya
+		<gap reason="lost" quantity="10" unit="character"/>
+		Uttaramērucaturve<supplied reason="lost">dimaṅkalam</supplied> <supplied reason="subaudible">situated</supplied> in its <supplied reason="subaudible">own</supplied> subdivision in Kāliyūrkōṭṭam. Two hundred and forty <foreign>kuḻi</foreign>s of second rate <supplied reason="subaudible">land</supplied> in the first <foreign>catukkam</foreign> <supplied reason="subaudible">situated</supplied>to the west of <supplied reason="subaudible">the path called</supplied> <supplied reason="lost">Utta</supplied>ramēru-vati
+		<gap reason="lost" quantity="5" unit="character"/>;
+		five hundred and sixty <foreign>kuḻi</foreign>s of first rate <supplied reason="subaudible">land</supplied> in this same place
+		<gap reason="lost" quantity="7" unit="character"/>;
+		in this same place <gap reason="lost" quantity="78" unit="character"/> of first rate areca <supplied reason="subaudible">land</supplied> in the fifth <foreign>catukkam</foreign> <supplied reason="subaudible">situated</supplied> to the west of <supplied reason="subaudible">the path called</supplied> Amaṉināraṇa-vati of the fifteenth <foreign>kaṇṇāṟu</foreign>
+		<gap reason="lost" quantity="8" unit="character"/>
+		We <supplied reason="subaudible">the members</supplied> of the big assembly ordered <supplied reason="subaudible">to be</supplied> <supplied reason="lost">tax-free</supplied>
+		<gap reason="lost" quantity="4" unit="character"/>
+		Those who obstruct this <supplied reason="subaudible">charity shall be liable to pay</supplied> a fine of 25 <foreign>kaḻañcu</foreign>s of gold to the seat of justice
+		<gap reason="lost" quantity="8" unit="character"/>
+		I, Śivadāsaṉ Brahmapriyaṉ, an arbitrator<supplied reason="explanation"><foreign>madhyastha</foreign></supplied> of this village, being in the assembly wrote <supplied reason="subaudible">this</supplied> at the command of the members of the assembly. The sacred watch of the image of this god and <gap reason="lost" quantity="6" unit="character"/> we <supplied reason="subaudible">the residents</supplied> of the village <supplied reason="explanation"><foreign>ūrōm</foreign></supplied> agreed that we shall not receive any kind of taxes <gap reason="lost" quantity="5" unit="character"/> shall themselves pay to this god every kind <supplied reason="subaudible">of tax</supplied>. Those who act against this <gap reason="lost" quantity="4" unit="character"/> Gaṅgā (the Ganges) <gap reason="lost" quantity="5" unit="character"/></p>
 		
 </div>
 			
