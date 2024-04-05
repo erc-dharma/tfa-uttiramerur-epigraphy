@@ -51,7 +51,8 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, 	nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -92,8 +93,35 @@
 	
 	<!--Located. Photos available.-->
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
-		<lb n="1"/>svasti śrī
-	</ab>	
+		<lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
+	</ab>
+	
+	<p>
+		pāṇṭiyaṉai talai koṇṭa
+		pārā<hi rend="grantha">tthivetrā</hi>rātipativa<hi rend="grantha">nma</hi>ṟ
+		<lb n="2" break="no"/>kku yāṇṭu muṉṟ-āvatu
+	</p>
+	<p>	
+		kāliyūr-kōṭṭattu taṉ-kūṟṟu
+		Uttara<hi rend="grantha">meru</hi>-c-catu
+		<lb n="3" break="no"/><hi rend="grantha">[r]vve</hi>ti-maṅkalattu peruṅ-kuṟi<hi rend="grantha">sabhai</hi>yōm eḻuttu Emm<choice><orig>u</orig><reg>ū</reg></choice>r
+		<hi rend="grantha">śrī-viruntā</hi>
+		<lb n="4" break="no"/>vaṇattu perumāṉ aṭṭiya[ḷu]kku
+		<lb n="5"/><hi rend="grantha">śrī-bali</hi>kkum tiru-c-ceṉṉaṭaikkum
+		<hi rend="grantha">nandā</hi>-viḷakkukkum
+		<hi rend="grantha">Arccanābhoga</hi>t[tu]kkum āka vaitta
+		<hi rend="grantha">bhūmi</hi> y-āvatu
+		
+		<hi rend="grantha">śrī-de</hi>vi-vāykkālaṉ teṟku nālāṅ ka[ṇ*]ṇāṟṟu-p pallava-nāraṇa-vatikku-k kiḻārku-p patiṉoṉṟāc catukkattum paṉṉi
+		<lb n="6" break="no"/>raṇṭāñ catukkattum āka-t
+		
+		talai-t taraṅ kuḻi nā-nūṟṟ’ eṇpatu kuḻiyum
+		<hi rend="grantha">śrī-de</hi>vivāykkā[li]ṉ teṟku nālāṅ
+		ka<hi rend="grantha">[ṇṇā]</hi>ṟu-p pallava-ṉāraṉ-vatiyiṉ kiḻakku
+		Oṉpatāñ catukkattu-t talai ta[ra]ṅ kuḻi taraṅ kuḻi nā-nūṟṟu
+		Aimpattāṟu kuḻiyum
+		<hi rend="grantha">śrī-de</hi>vi-[v]āk
+	</p>
 		
 </div>
 
@@ -112,8 +140,12 @@
 	
 <div type="translation" source="bib:KrishnaSastri1920_01">
 
-	<p n="1">Hail! Prosperity!</p>
-		
+	<p n="1">Hail! Prosperity! In the 3rd year of Pārthivēndrādhipativarman, who took the head of the Pāṇḍya <supplied reason="subaudible">king</supplied>, <supplied reason="subaudible">this is</supplied> the writing of us <supplied reason="subaudible">the members</supplied> of the great assembly of Uttaramēru-caturvedimaṅkalam in its own subdivision in Kāliyūrkōṭṭam. The following are the lands given to the lord of <supplied reason="subaudible">the temple of</supplied> the glorious Vr̥ndāvana of our village for <foreign>śrībali</foreign>, sacred current expenses, perpetual lamp and <foreign>archchanābhōga:</foreign>——
+	</p>
+	<p n="5">480 <foreign>kuḻi</foreign>s of first rate <supplied reason="subaudible">land</supplied> in the eleventh and twelfth squares <supplied reason="explanation">catukkam</supplied> <supplied reason="subaudible">situated</supplied> to the east of <supplied reason="subaudible">the path called</supplied> Pallavanāraṇa-vati in the fourth <foreign>kaṇṇāṟu</foreign> to the south of <supplied reason="subaudible">the channel called</supplied> Śrīdevi-vāykkāl; 456 <foreign>kuḻi</foreign>s of first rate <supplied reason="subaudible">land</supplied> in
+the ninth square <supplied reason="subaudible">situated</supplied> to the east of <supplied reason="subaudible">the path called</supplied> Pallavanāraṇa-vati in the fourth <foreign>kaṇṇāṟu</foreign> to the south of <supplied reason="subaudible">the channel called</supplied> Śrī-devi-vāykkāl; <gap reason="lost" quantity="5" unit="character"/>
+	</p>
+	
 </div>
 			
 <div type="translation" resp="part:emfr">
