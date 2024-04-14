@@ -83,9 +83,9 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
          	
-	<ab>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>     
 	
