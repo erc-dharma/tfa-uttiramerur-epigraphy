@@ -92,16 +92,16 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/><supplied reason="undefined">svasti śrī</supplied>
+		<lb n="1"/><unclear>svasti śrī</unclear>
 	</ab>
 	
 	<p>		
-		pāṇṭiyaṉai-y-t talai-y koṇṭa kō-<hi rend="grantha">pārtthi</hi>v<supplied reason="undefined">e</supplied> <gap reason="lost" quantity="6" unit="character"/>
+		pāṇṭiyaṉai-y-t talai-y koṇṭa kō-<hi rend="grantha">pārtthi</hi>v<unclear>e</unclear> <gap reason="lost" quantity="6" unit="character"/>
 		<lb n="2"/><gap reason="lost" quantity="8" unit="character"/> yāṇṭu Ēḻ-āvatu
 	</p>
 	
 	<p>
-		kāliyūr-kōṭṭattu taṉ-<supplied reason="undefined">kū</supplied>ṟṟu <gap reason="lost" quantity="4" unit="character"/>
+		kāliyūr-kōṭṭattu taṉ-<unclear>kū</unclear>ṟṟu <gap reason="lost" quantity="4" unit="character"/>
 		<lb n="3"/><gap reason="lost" quantity="7" unit="character"/> tu<hi rend="grantha">rvveti</hi>-maṅkalattu peruṅ-kuṟi
 		<hi rend="grantha">sabhai</hi>yōm E <gap reason="lost" quantity="5" unit="character"/>
 		<lb n="4"/>ka(ḷ)ḷūr <hi rend="grantha">śrī-gurukṣetra</hi>ttu perumāṉ-aṭikaḷukku nāṅ <gap reason="lost" quantity="8" unit="character"/>
@@ -111,7 +111,7 @@
 	</p>
 	<p>
 		vayira-mēka-vatiyiṉ
-		<lb n="8"/>vaṭakku paṉṉ-iraṇṭāṅ kaṇṇāṟṟu <supplied reason="undefined">U</supplied>ttara-mēru-vatiyiṉ mēṟkku
+		<lb n="8"/>vaṭakku paṉṉ-iraṇṭāṅ kaṇṇāṟṟu <unclear>U</unclear>ttara-mēru-vatiyiṉ mēṟkku
 	</p>
 </div>
 
@@ -136,7 +136,7 @@
 			
 <div type="translation" resp="part:emfr">
 	
-	<p n="1"><supplied reason="undefined">Prosperity! Fortune!</supplied></p>	
+	<p n="1"><unclear>Prosperity! Fortune!</unclear></p>	
 	<p n="1">7th year ...</p>
 
 </div>
