@@ -94,10 +94,10 @@
 	</ab>	
 	
 	<p>
-		v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭiya<supplied reason="undefined">ṉ talai k</supplied>oṇṭa kō-<choice><sic><hi rend="grantha">partma</hi></sic><corr>pārtthivendra</corr></choice>-<hi rend="grantha">mahārāja</hi>ṟku yāṇṭu Iraṇṭ-āvatu
+		v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭiya<unclear>ṉ talai k</unclear>oṇṭa kō-<choice><sic><hi rend="grantha">partma</hi></sic><corr>pārtthivendra</corr></choice>-<hi rend="grantha">mahārāja</hi>ṟku yāṇṭu Iraṇṭ-āvatu
 	</p>
 	<p>
-		kā<supplied reason="undefined">liyū</supplied>r-k-kōṭṭattu taṉ-kū<supplied reason="undefined">ṟṟ' u</supplied>ttara-mēru-catu<hi rend="grantha"><reg>r</reg>vve</hi><supplied reason="lost"><hi rend="grantha">di</hi>-maṅkalattu</supplied>
+		kā<unclear>liyū</unclear>r-k-kōṭṭattu taṉ-kū<unclear>ṟṟ' u</unclear>ttara-mēru-catu<hi rend="grantha"><reg>r</reg>vve</hi><supplied reason="lost"><hi rend="grantha">di</hi>-maṅkalattu</supplied>
 		
 		<list>
 			<item>
@@ -112,7 +112,7 @@
 				<lb n="3"/>kku
 			</item>
 			<item>
-				pati<supplied reason="omitted">ṉ</supplied> Ai<choice><orig><supplied reason="undefined">ñ</supplied>t</orig><reg><choice><unclear>ñc</unclear><unclear>nt</unclear></choice></reg></choice>āṅ ka<supplied reason="undefined">ṇ</supplied>ṇāṟṟu Amani-nāraṇa-vatiyi<choice><orig>n</orig><reg>ṉ</reg></choice> mēṟkku Ai<choice><orig>ñt</orig><reg><choice><unclear>nt</unclear><unclear>ñc</unclear></choice></reg></choice>āñ<surplus>c</surplus> catukkattu kamuku talai-t tara <gap reason="lost" quantity="8" unit="character"/>
+				pati<supplied reason="omitted">ṉ</supplied> Ai<choice><orig><unclear>ñ</unclear>t</orig><reg><choice><unclear>ñc</unclear><unclear>nt</unclear></choice></reg></choice>āṅ ka<unclear>ṇ</unclear>ṇāṟṟu Amani-nāraṇa-vatiyi<choice><orig>n</orig><reg>ṉ</reg></choice> mēṟkku Ai<choice><orig>ñt</orig><reg><choice><unclear>nt</unclear><unclear>ñc</unclear></choice></reg></choice>āñ<surplus>c</surplus> catukkattu kamuku talai-t tara <gap reason="lost" quantity="8" unit="character"/>
 			</item>
 		</list>
 		<gap reason="lost" quantity="2" unit="character"/>
@@ -120,18 +120,18 @@
 		<hi rend="grantha">sabhai</hi>yōm
 	</p>
 	<p>
-		Itu viro<hi rend="grantha">dha</hi>ñ ceca<!--EF note = cey-->ytā<hi rend="grantha">rai dha<supplied reason="undefined"><choice><orig>nm</orig><reg>rmm</reg></choice></supplied>āsa</hi>nattē<!--EF note-->
+		Itu viro<hi rend="grantha">dha</hi>ñ ceca<!--EF note = cey-->ytā<hi rend="grantha">rai dha<choice><orig><unclear>nm</unclear></orig><reg>rmm</reg></choice>āsa</hi>nattē<!--EF note-->
 		Iru-pataita<!--EF: note-->-kaḻañcu poṉ <hi rend="grantha">daṇḍa</hi>m mutpa<!--EF: daṇḍamm utpa-->
 		<gap reason="lost" quantity="5" unit="character"/>
 	</p>
 	<p>
 		<gap reason="lost" quantity="2" unit="character"/><!--EF restore: ... sabhaiyā; check parallels-->
 		<lb n="5"/><hi rend="grantha">bhai</hi>yār paṇikka <hi rend="grantha">sabhai</hi>-Uḷ Iru<choice><orig>ṉ</orig><reg>n</reg></choice>tu E<supplied reason="omitted">ḻu</supplied>tinēṉ Iv-ūr
-		<hi rend="grantha">madhyastha</hi>ṉ ci<supplied reason="omitted">va</supplied>-<hi rend="grantha">dāsa</hi><supplied reason="undefined">ṉ</supplied>
+		<hi rend="grantha">madhyastha</hi>ṉ ci<supplied reason="omitted">va</supplied>-<hi rend="grantha">dāsa</hi><unclear>ṉ</unclear>
 		<hi rend="grantha">brahma-pri</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
 	</p>
 	<p>
-		I<hi rend="grantha">t=-tē</hi>varkku-t tiru-me<supplied reason="undefined">y</supplied>-k<supplied reason="undefined">āva</supplied>l<choice><sic>a</sic><corr>u</corr></choice>m maṟṟum
+		I<hi rend="grantha">t=-tē</hi>varkku-t tiru-me<unclear>y</unclear>-k<unclear>āva</unclear>l<choice><sic>a</sic><corr>u</corr></choice>m maṟṟum
 		<gap reason="lost" quantity="10" unit="character"/>
 		<lb n="6"/>ṭiyum maṟṟum Epeparlpa<!--EF note--> Iṟaiyum Ūrōm koḷḷa-p peṟātōm ākavum
 	</p>
@@ -212,7 +212,7 @@
 				
 	<p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/88).</p>
 	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.152).</p>
-	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1903_01"/></bibl>.</p>
+	<p>Encoded here by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.</p>
 		
 	<listBibl type="primary">
 		
