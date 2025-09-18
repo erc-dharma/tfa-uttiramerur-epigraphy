@@ -5,193 +5,193 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Uttiramērūr, Sundaravaradaperumāḷ, time of Pārthivendrādhipativarman, year
-					13</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSUttiramerur00044</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Incomplete inscription.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-02" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-<body>
-			
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-				
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<p>
-		kō-<hi rend="grantha">pārtthi</hi>vēntāti-<hi rend="grantha">pa</hi>ti-<hi rend="grantha">panma</hi>ṟku yāṇṭu <num value="13"><g type="numeral">10</g> 3</num>-vatu
-	</p>
-	
-	<p>
-		kāliyūr-kōṭṭattu taṉ-kūṟṟu Ut=ta<hi rend="grantha">rameru-c-ca</hi>tu<hi rend="grantha">rve</hi>ti-maṅka<supplied reason="omitted">la</supplied>ttu koṅkarai
-		<lb n="2" break="no"/>ya<supplied reason="omitted">r</supplied> <hi rend="grantha">śrī</hi>-kōyil veḷḷai-mū<choice><orig>t=ti</orig><reg>rtti</reg></choice>-perumāṉ-aṭikaḷukku perumāṉ-aṭikaḷ nam-pirāṭṭiyār <hi rend="grantha">tri-<choice><sic>bhva</sic><corr>bhuva</corr></choice></hi>ṉa-<hi rend="grantha">mahā</hi>
-		<lb n="3" break="no"/>-<hi rend="grantha">de</hi>viyār vaitta nu<hi rend="grantha">ndā</hi>-viḷakk' iraṇṭukkum paṉmai-c-cēri veḷḷāḷarē-y <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ kāttu <hi rend="grantha">rakṣi</hi>ppār-āka Ivarkaḷ
-		<lb n="4"/>vacam v-iṭṭa cāvā-mūvā-p-pēr-āṭu toṇṇūṟṟ' āṟum
-	</p>
-	
-	<p>
-		naṭuvil aṅkāṭi <hi rend="grantha">vyā<choice><sic>bh</sic><corr>p</corr></choice>ā</hi>rikaḷ vacam <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-va
-		<lb n="5" break="no"/>ṟ kāttu <hi rend="grantha">rakṣi</hi>ppār-āka v-iṭṭa cāvā-mūvā-p-pērāṭu toṇṇūṟṟ' āṟum āka Ivv-iraṇṭu viḷakkiṉāṭum <hi rend="grantha">rakṣi</hi>ttu
-		<lb n="6"/>nicata-p paṭi Ur<choice><orig>i-y</orig><reg>i</reg></choice> ney Ivarkaḷē-y nu<hi rend="grantha">ndā</hi>-viḷakkiṟku muṭṭāmai Aṭṭuvippār ākavum
-	</p>
-	<p>
-		Ip-paricu kaṭai-k-kāṭci-y-<unclear>ā</unclear>
-		<lb n="7" break="no"/>ka viṭṭōm
-	</p>
-	<p>
-		Ivv-iṭṭa Āṭu kaṭai-k-kāṇāviṭil Aṉṟāḻ kōvukku <hi rend="grantha">de</hi>var-aṭiyār-ē-y nicata mañ<supplied reason="omitted">c</supplied>āṭi-p poṉ <hi rend="grantha">da</hi>
-	</p>
-	
-</div>
-
-<div type="apparatus">
-				
-	<listApp>
-		
-		<app loc="4">
-			<lem><hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-va<lb n="5" break="no"/>ṟ</lem>
-			<rdg source="bib:KrishnaSastri1920_01"><hi rend="grantha">cantrā</hi>tittava<lb n="5" break="no"/>ṟa</rdg>
-		</app>
-		
-	</listApp>
-	
-</div>
-	
-<div type="translation" source="bib:KrishnaSastri1920_01">
-	
-	<p n="1">Hail! Prosperity!</p>	
-	<p n="1-4">In the 13th year of <supplied reason="subaudible">the reign of</supplied> king Pārthivendrādhipativarman, the queen consort Tribhuvaṉa-Mahādeviyār gave for two perpetual lamps to <supplied reason="subaudible">the god</supplied> Veḷḷaimūrti-Perumāṉaṭikaḷ in the <foreign>śrīkōil</foreign> of Koṅgaraiyar at Uttaramēru-caturvedimaṅkalam, <supplied reason="subaudible">a village</supplied> in its <supplied reason="subaudible">own</supplied> subdivision in Kāliyūr-kōṭṭam, 96 sheep which neither die nor grow old placing them in charge of the cultivators <supplied reason="explanation"><foreign>veḷḷāḷar</foreign></supplied> of the different quarters <supplied reason="explanation"><foreign>paṉmaiccēri</foreign></supplied> <supplied reason="subaudible">of this village</supplied> on condition that they would themselves protect and maintain <supplied reason="subaudible">the lamps</supplied> as long as the moon and the sun <supplied reason="subaudible">endure</supplied>.</p>
-	<p n="4-5">
-		<supplied reason="subaudible">She again gave</supplied> 96 sheep which neither die nor grow old in charge of the merchants of the middle bazaar <supplied reason="explanation"><foreign>naṭuvil aṅkāṭi</foreign></supplied> who also agreed to protect and maintain <supplied reason="subaudible">the lamps</supplied> as long as the moon and the sun <supplied reason="subaudible">endure</supplied>.
-	</p>
-	<p n="5-6">These same would <supplied reason="subaudible">thus</supplied> protect the sheep <supplied reason="subaudible">given on account</supplied> of these two lamps and cause to be measured out daily without fail one <foreign>uri</foreign> of ghee for <supplied reason="subaudible">maintaining</supplied> the perpetual lamps.
-	</p>
-	<p n="6-7">This gift was placed under the supervision <supplied reason="explanation"><foreign>kaṭaikāṭci</foreign></supplied> <supplied reason="subaudible">of these two communities</supplied>.
-	</p>
-	<p n="7">If the sheep thus presented are not supervised, the temple servants <supplied reason="explanation"><foreign>devaraṭiyār</foreign></supplied> themselves <gap reason="lost"/> of one <foreign>mañcāṭi</foreign> of gold daily to <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, on behalf of</supplied> the then-reigning king.</p>	
-	
-</div>
-			
-<div type="translation" resp="part:emfr">
-	
-	<p n="1">Prosperity! Fortune!</p>	
-	<p n="1">13th year of ...</p>	
-	<p n="1-4">...</p>	
-	<p n="5-6">...</p>
-	
-	<p n="6-7">...</p>
-	
-	<p n="7">...</p>
-
-</div>
-			
-<div type="commentary">
-	
-</div>
-			
-<div type="bibliography">
-				
-	<p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/52).</p>
-	<p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.195).</p>
-	<p>Encoded here by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.</p>
-		
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1920_01"/>
-			<citedRange unit="page">372</citedRange>
-			<citedRange unit="item">195</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		<bibl>
-			<ptr target="bib:ARIE1897-1898"/>
-			<citedRange unit="page">17</citedRange>
-			<citedRange unit="appendix">B/1898</citedRange>
-			<citedRange unit="item">52</citedRange>
-		</bibl>	
-		
-	</listBibl>
-	
-			</div>
-			
-		</body>
-	</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Uttiramērūr, Sundaravaradaperumāḷ, time of Pārthivendrādhipativarman, year
+                    13</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSUttiramerur00044</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Incomplete inscription.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-02" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    kō-<hi rend="grantha">pārtthi</hi>vēntāti-<hi rend="grantha">pa</hi>ti-<hi rend="grantha">panma</hi>ṟku yāṇṭu <num value="13"><g type="numeral">10</g> 3</num>-vatu
+                </p>
+                
+                <p>
+                    kāliyūr-kōṭṭattu taṉ-kūṟṟu Ut=ta<hi rend="grantha">rameru-c-ca</hi>tu<hi rend="grantha">rve</hi>ti-maṅka<supplied reason="omitted">la</supplied>ttu koṅkarai
+                    <lb n="2" break="no"/>ya<supplied reason="omitted">r</supplied> <hi rend="grantha">śrī</hi>-kōyil veḷḷai-mū<choice><orig>t=ti</orig><reg>rtti</reg></choice>-perumāṉ-aṭikaḷukku perumāṉ-aṭikaḷ nam-pirāṭṭiyār <hi rend="grantha">tri-<choice><sic>bhva</sic><corr>bhuva</corr></choice></hi>ṉa-<hi rend="grantha">mahā</hi>
+                    <lb n="3" break="no"/>-<hi rend="grantha">de</hi>viyār vaitta nu<hi rend="grantha">ndā</hi>-viḷakk' iraṇṭukkum paṉmai-c-cēri veḷḷāḷarē-y <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ kāttu <hi rend="grantha">rakṣi</hi>ppār-āka Ivarkaḷ
+                    <lb n="4"/>vacam v-iṭṭa cāvā-mūvā-p-pēr-āṭu toṇṇūṟṟ' āṟum
+                </p>
+                
+                <p>
+                    naṭuvil aṅkāṭi <hi rend="grantha">vyā<choice><sic>bh</sic><corr>p</corr></choice>ā</hi>rikaḷ vacam <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-va
+                    <lb n="5" break="no"/>ṟ kāttu <hi rend="grantha">rakṣi</hi>ppār-āka v-iṭṭa cāvā-mūvā-p-pērāṭu toṇṇūṟṟ' āṟum āka Ivv-iraṇṭu viḷakkiṉāṭum <hi rend="grantha">rakṣi</hi>ttu
+                    <lb n="6"/>nicata-p paṭi Ur<choice><orig>i-y</orig><reg>i</reg></choice> ney Ivarkaḷē-y nu<hi rend="grantha">ndā</hi>-viḷakkiṟku muṭṭāmai Aṭṭuvippār ākavum
+                </p>
+                <p>
+                    Ip-paricu kaṭai-k-kāṭci-y-<unclear>ā</unclear>
+                    <lb n="7" break="no"/>ka viṭṭōm
+                </p>
+                <p>
+                    Ivv-iṭṭa Āṭu kaṭai-k-kāṇāviṭil Aṉṟāḻ kōvukku <hi rend="grantha">de</hi>var-aṭiyār-ē-y nicata mañ<supplied reason="omitted">c</supplied>āṭi-p poṉ <hi rend="grantha">da</hi>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="4">
+                        <lem><hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-va<lb n="5" break="no"/>ṟ</lem>
+                        <rdg source="bib:KrishnaSastri1920_01"><hi rend="grantha">cantrā</hi>tittava<lb n="5" break="no"/>ṟa</rdg>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" source="bib:KrishnaSastri1920_01">
+                
+                <p n="1">Hail! Prosperity!</p>	
+                <p n="1-4">In the 13th year of <supplied reason="subaudible">the reign of</supplied> king Pārthivendrādhipativarman, the queen consort Tribhuvaṉa-Mahādeviyār gave for two perpetual lamps to <supplied reason="subaudible">the god</supplied> Veḷḷaimūrti-Perumāṉaṭikaḷ in the <foreign>śrīkōil</foreign> of Koṅgaraiyar at Uttaramēru-caturvedimaṅkalam, <supplied reason="subaudible">a village</supplied> in its <supplied reason="subaudible">own</supplied> subdivision in Kāliyūr-kōṭṭam, 96 sheep which neither die nor grow old placing them in charge of the cultivators <supplied reason="explanation"><foreign>veḷḷāḷar</foreign></supplied> of the different quarters <supplied reason="explanation"><foreign>paṉmaiccēri</foreign></supplied> <supplied reason="subaudible">of this village</supplied> on condition that they would themselves protect and maintain <supplied reason="subaudible">the lamps</supplied> as long as the moon and the sun <supplied reason="subaudible">endure</supplied>.</p>
+                <p n="4-5">
+                    <supplied reason="subaudible">She again gave</supplied> 96 sheep which neither die nor grow old in charge of the merchants of the middle bazaar <supplied reason="explanation"><foreign>naṭuvil aṅkāṭi</foreign></supplied> who also agreed to protect and maintain <supplied reason="subaudible">the lamps</supplied> as long as the moon and the sun <supplied reason="subaudible">endure</supplied>.
+                </p>
+                <p n="5-6">These same would <supplied reason="subaudible">thus</supplied> protect the sheep <supplied reason="subaudible">given on account</supplied> of these two lamps and cause to be measured out daily without fail one <foreign>uri</foreign> of ghee for <supplied reason="subaudible">maintaining</supplied> the perpetual lamps.
+                </p>
+                <p n="6-7">This gift was placed under the supervision <supplied reason="explanation"><foreign>kaṭaikāṭci</foreign></supplied> <supplied reason="subaudible">of these two communities</supplied>.
+                </p>
+                <p n="7">If the sheep thus presented are not supervised, the temple servants <supplied reason="explanation"><foreign>devaraṭiyār</foreign></supplied> themselves <gap reason="lost"/> of one <foreign>mañcāṭi</foreign> of gold daily to <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, on behalf of</supplied> the then-reigning king.</p>	
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>	
+                <p n="1">13th year of ...</p>	
+                <p n="1-4">...</p>	
+                <p n="5-6">...</p>
+                
+                <p n="6-7">...</p>
+                
+                <p n="7">...</p>
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/52).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.195).</p>
+                <p>Encoded here by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1920_01"/>
+                        <citedRange unit="page">372</citedRange>
+                        <citedRange unit="item">195</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1897-1898"/>
+                        <citedRange unit="page">17</citedRange>
+                        <citedRange unit="appendix">B/1898</citedRange>
+                        <citedRange unit="item">52</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

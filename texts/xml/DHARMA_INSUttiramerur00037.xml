@@ -5,171 +5,171 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 7</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSUttiramerur00037</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-03" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-<body>
-			
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-				
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/><unclear>svasti śrī</unclear>
-	</ab>
-	
-	<p>		
-		pāṇṭiyaṉai-y-t talai-y koṇṭa kō-<hi rend="grantha">pārtthi</hi>v<unclear>e</unclear> <gap reason="lost" quantity="6" unit="character"/>
-		<lb n="2"/><gap reason="lost" quantity="8" unit="character"/> yāṇṭu Ēḻ-āvatu
-	</p>
-	
-	<p>
-		kāliyūr-kōṭṭattu taṉ-<unclear>kū</unclear>ṟṟu <gap reason="lost" quantity="4" unit="character"/>
-		<lb n="3"/><gap reason="lost" quantity="7" unit="character"/> tu<hi rend="grantha">rvveti</hi>-maṅkalattu peruṅ-kuṟi
-		<hi rend="grantha">sabhai</hi>yōm E <gap reason="lost" quantity="5" unit="character"/>
-		<lb n="4"/>ka(ḷ)ḷūr <hi rend="grantha">śrī-gurukṣetra</hi>ttu perumāṉ-aṭikaḷukku nāṅ <gap reason="lost" quantity="8" unit="character"/>
-		<lb n="5"/><hi rend="grantha">sabhai</hi>yōm paṭṭaṉa-nāṭṭu perum-paṭṭaṉattu I <gap reason="lost" quantity="6" unit="character"/>
-		<lb n="6" break="no"/>y-āṉa Ammāṭṭi ciṟṟampalavan pakkal pū<hi rend="grantha">rvvā</hi>cāraṅ koṇṭu 
-		<lb n="7"/>Iṟai-y-iḻicci kuṭutta nilam āvatu
-	</p>
-	<p>
-		vayira-mēka-vatiyiṉ
-		<lb n="8"/>vaṭakku paṉṉ-iraṇṭāṅ kaṇṇāṟṟu <unclear>U</unclear>ttara-mēru-vatiyiṉ mēṟkku
-	</p>
-</div>
-
-<!--<div type="apparatus">
-				
-	<listApp>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1920_01">...</rdg>
-		</app>
-		
-	</listApp>
-	
-</div>-->
-	
-<div type="translation" source="bib:KrishnaSastri1920_01">
-	
-	<!--Update to DHARMA transliteration scheme.-->
-			
-</div>
-			
-<div type="translation" resp="part:emfr">
-	
-	<p n="1"><unclear>Prosperity! Fortune!</unclear></p>	
-	<p n="1">7th year ...</p>
-
-</div>
-			
-<div type="commentary">
-	
-</div>
-			
-<div type="bibliography">
-				
-	<p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/79).</p>
-	<p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.194).</p>
-	<p>Encoded here by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.</p>
-		
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1920_01"/>
-			<citedRange unit="page">360-361</citedRange>
-			<citedRange unit="item">183</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		<bibl>
-			<ptr target="bib:ARIE1897-1898"/>
-			<citedRange unit="page">18</citedRange>
-			<citedRange unit="appendix">B/1898</citedRange>
-			<citedRange unit="item">79</citedRange>
-		</bibl>	
-		
-	</listBibl>
-	
-			</div>
-			
-		</body>
-	</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 7</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSUttiramerur00037</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-03" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha"><unclear>svasti śrī</unclear></hi>
+                </ab>
+                
+                <p>		
+                    pāṇṭiyaṉai-y-t talai-y koṇṭa kō-<hi rend="grantha">pārtthi</hi>v<unclear>e</unclear> <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="2"/><gap reason="lost" quantity="8" unit="character"/> yāṇṭu Ēḻ-āvatu
+                </p>
+                
+                <p>
+                    kāliyūr-kōṭṭattu taṉ-<unclear>kū</unclear>ṟṟu <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="3"/><gap reason="lost" quantity="7" unit="character"/> tu<hi rend="grantha">rvveti</hi>-maṅkalattu peruṅ-kuṟi
+                    <hi rend="grantha">sabhai</hi>yōm E <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="4"/>ka(ḷ)ḷūr <hi rend="grantha">śrī-gurukṣetra</hi>ttu perumāṉ-aṭikaḷukku nāṅ <gap reason="lost" quantity="8" unit="character"/>
+                    <lb n="5"/><hi rend="grantha">sabhai</hi>yōm paṭṭaṉa-nāṭṭu perum-paṭṭaṉattu I <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="6" break="no"/>y-āṉa Ammāṭṭi ciṟṟampalavan pakkal pū<hi rend="grantha">rvvā</hi>cāraṅ koṇṭu 
+                    <lb n="7"/>Iṟai-y-iḻicci kuṭutta nilam āvatu
+                </p>
+                <p>
+                    vayira-mēka-vatiyiṉ
+                    <lb n="8"/>vaṭakku paṉṉ-iraṇṭāṅ kaṇṇāṟṟu <unclear>U</unclear>ttara-mēru-vatiyiṉ mēṟkku
+                </p>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:KrishnaSastri1920_01">...</rdg>
+                </app>
+                
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" source="bib:KrishnaSastri1920_01">
+                
+                <!--Update to DHARMA transliteration scheme.-->
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1"><unclear>Prosperity! Fortune!</unclear></p>	
+                <p n="1">7th year ...</p>
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/79).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.194).</p>
+                <p>Encoded here by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1920_01"/>
+                        <citedRange unit="page">360-361</citedRange>
+                        <citedRange unit="item">183</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1897-1898"/>
+                        <citedRange unit="page">18</citedRange>
+                        <citedRange unit="appendix">B/1898</citedRange>
+                        <citedRange unit="item">79</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

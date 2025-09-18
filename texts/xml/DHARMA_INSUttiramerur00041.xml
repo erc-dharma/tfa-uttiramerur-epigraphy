@@ -5,205 +5,206 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 11,
-					day 324</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSUttiramerur00041</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-02" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-<body>
-			
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-				
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	<p>
-		kō-pā<choice><orig>tti</orig><reg>rtti</reg></choice>vēntirātipati-va<hi rend="grantha"><supplied reason="omitted">n</supplied>ma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num>-ḷ <num value="320">3 <g type="numeral">100</g> 2 <g type="numeral">10</g> 4</num>
-	</p>
-	<p>
-		kāliyūr-kōṭṭattu ta<choice><orig>n</orig><reg>ṉ</reg></choice>-kūṟṟu
-		Uttara-mēru-cat<choice><sic>a<hi rend="grantha">vy</hi></sic><corr>u<hi rend="grantha">rvv</hi></corr></choice>eti-maṅkalatu peruṅ-kuṟi
-		<hi rend="grantha">sabhai</hi>yōm Eṅkaḷūr-t tiru<hi rend="grantha">vai</hi>yo<hi rend="grantha">dyai</hi> perumān-aṭikaḷukku Uṭ<hi rend="grantha">ai</hi>yār
-		<hi rend="grantha">de</hi><unclear>vi</unclear>yār
-		villavaṉ-<hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>viyār tām Eḻunt-aruḷuvitta tiru-mēṉikkum <hi rend="grantha"><choice><sic>śī</sic><corr>śrī</corr></choice></hi>-kōyilukkum <hi rend="grantha"><choice><sic>śī</sic><corr>śrī</corr></choice>-bali</hi>kkum
-		<hi rend="grantha">Arcca</hi>nā<hi rend="grantha">bhoga</hi>ttukkum vaitta
-		<hi rend="grantha">bhūmi</hi>
-	</p>
-	<p>
-		Uttara-mēru-va<add place="below">ti</add>yiṉ mēṟkku mutaṟ-k kaṇṇāṟu
-		<hi rend="grantha">sarasu</hi>vati-v<choice><orig>ā</orig><reg>āy</reg></choice>kkāli<unclear>ṉ</unclear> vaṭakku
-		<lb n="2"/>nālā<choice><sic><unclear>ṅ</unclear></sic><corr>ñ</corr></choice> cātukkattum Añcāñ catukkattum Āṟāñ catukkattu<supplied reason="omitted">m</supplied>
-		Āka talai-taraṅ kuḻi Āyirattu Eḻu-nūṟṟu Aṟu-patu vayira-mēka-vatiyiṉ teṟkku
-		Amaṉi-nārāyaṇa-vatikku mēṟkku Iraṇṭāṅ kaṇṇāṟṟu Añcā<supplied reason="omitted">ñ</supplied> catu<supplied reason="omitted">k</supplied>kattu talai-taraṅ kuḻi Eḻu-nūṟṟu nāṟ-patu <unclear>va</unclear>yira-mēka-<unclear>va</unclear>tiyiṉ teṟ<unclear>k</unclear>ku
-		nālāṅ kaṇṇāṟṟu Avani-nāraṇa-vatiyiṉ mēṟkku Iraṇṭā<supplied reason="omitted">ñ</supplied> catukkattu talai-ta<supplied reason="omitted">ra</supplied>ṅ kuḻi nā-nūṟṟu Iru-patum Āka kuḻi Iraṇṭ' āyirattu toḷḷā		
-		<lb n="3" break="no"/>yirattu Iru-patum
-		<hi rend="grantha">de</hi>viyār villavaṉ
-		<hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>vi-y-āriṭai <hi rend="grantha">pūvvajā</hi>ra<unclear>ṅ</unclear> ko<supplied reason="omitted">ṇṭu</supplied>
-		<hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ<surplus>kku</surplus> Iṟai-y-ili-y-āka-p paṇittōm peruṅ-kuṟi <hi rend="grantha">sabhai</hi>yōm 
-	</p>
-	<p>
-		I<hi rend="grantha"><choice><sic>ś</sic><corr>dh</corr></choice>a</hi>mattukku virōtam niṉṟārai
-		<hi rend="grantha"><unclear>śra</unclear></hi><surplus>t</surplus><hi rend="grantha">ddhāma</hi>n=ta<hi rend="grantha">rē</hi> Irupat<surplus>tu</surplus>t' aiñ-kaḻañ<unclear>cu po</unclear>ṉ
-		<hi rend="grantha">da</hi>ṇṭa-paṭuvat' āka<supplied reason="omitted">vu</supplied><unclear>m</unclear>
-	</p>
-	<p>
-		I-ta<hi rend="grantha">nma<supplied reason="omitted">m·</supplied> rakṣi</hi>ppār <hi rend="grantha">śri-pādadhūḷi</hi>
-		I-pa<hi rend="grantha">ma</hi>ñ ceyta
-		villavaṉ-<hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>hā-de</hi>viyār tiru-muṭi mēla<choice><orig>n</orig><reg>ṉ</reg></choice>a v-ākavum
-	</p>
-	<p>	I-<hi rend="grantha">dhanma</hi>ttukku
-		<hi rend="grantha">a</hi>yt' anṟ' eṉṟār
-		<hi rend="grantha">ge</hi>ṅ<supplied reason="omitted">k</supplied>ai <unclear>Iṭai</unclear>
-		<lb n="4"/>kumari-<supplied reason="omitted">-y-i</supplied>ṭai c<orig><unclear>ē</unclear></orig><reg>ey</reg>tār c<choice><orig>e</orig><reg>ey</reg></choice>ta pāvam paṭuka
-	</p>
-	<p>
-		Ip-paricu Iṟai-y-iḻicci <hi rend="grantha"><choice><sic>ś=</sic><corr>śi</corr></choice></hi>lā-<hi rend="grantha">lekhai</hi> ceytu kuṭu<supplied reason="omitted">t</supplied>tōm Uttara-mēllu-catu<hi rend="grantha"><choice><sic>vy</sic><corr>rvv</corr></choice>e</hi>ti-maṅkalattu p<choice><sic>o</sic><corr>e</corr></choice>ruṅ-kuṟi <hi rend="grantha">sabhai</hi>yō<supplied reason="omitted">m</supplied>
-	</p>
-	<p>
-		mā<hi rend="grantha">sabhai</hi>yu<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> iruntu <hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>hāsabhai</hi> paṇ<choice><sic>a</sic><corr>i</corr></choice>kka E<unclear>ḻu</unclear>tinēṉ <hi rend="grantha">madhyasta</hi><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha"><unclear>śi</unclear>va-dāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice> <choice><orig>Ay</orig><reg>Ai</reg></choice>-y-ā<supplied reason="omitted">yira</supplied>tt-iru-nūṟṟuva-<hi rend="grantha"><unclear>bra</unclear>hma-<unclear>pri</unclear></hi>yaṉē<choice><orig>n</orig><reg>ṉ</reg></choice>
-	</p>
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<unclear>śrī</unclear> <g type="gomutraFinal">.</g>
-	</ab>	
-	
-</div>
-
-<!--<div type="apparatus">
-				
-	<listApp>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1920_01">...</rdg>
-		</app>
-		
-	</listApp>
-	
-</div>-->
-	
-<div type="translation" source="bib:KrishnaSastri1920_01">
-	
-	<p n="">Hail! Prosperity! In the 11th year <supplied reason="subaudible">and</supplied> the 324th day of <supplied reason="subaudible">the reign of</supplied> king Pārthivendrādhipativarman, we <supplied reason="subaudible">the members</supplied> of the big assembly of Uttaramērucaturvedimaṅkalam, <supplied reason="subaudible">a village</supplied> in its <supplied reason="subaudible">own</supplied> subdivision in Kāliyūr-kōṭṭam <supplied reason="subaudible">wrote thus</supplied>. The <supplied reason="subaudible">following</supplied> lands were given by Villavaṉ-Mahādeviyār, the queen of the lord <supplied reason="explanation"><hi rend="italic">i.e.</hi>, the king</supplied>, for the image and for the <foreign>śrīkōvil</foreign>, which she had set up to the god <supplied reason="explanation"><foreign>perumāṉaṭikaḷ</foreign></supplied> of Tiruvayodhyai in our village and for <foreign>śrībali</foreign> and <foreign>arcanābhoga:</foreign>—one thousand seven hundred and sixty <foreign>kuḻi</foreign>s in all, of first rate <supplied reason="subaudible">land</supplied> in the fourth, fifth and sixth <foreign>śadukkam</foreign> <supplied reason="subaudible">situated</supplied> north of <supplied reason="subaudible">the channel called</supplied> Sarasvati-vāykkāl of the first <foreign>kaṇṇāṟu</foreign> to the west of <supplied reason="subaudible">the path called</supplied> Uttaramēru-vati; seven hundred and forty <foreign>kuḻi</foreign>s of first rate <supplied reason="subaudible">land</supplied> in the fifth <foreign>catukkam</foreign> of the second <foreign>kaṇṇāṟu</foreign> <supplied reason="subaudible">situated</supplied> to the west of <supplied reason="subaudible">the path called</supplied> Amaninārāyaṇa-vati south of <supplied reason="subaudible">the path called</supplied> Vayiramēka-vati; <supplied reason="subaudible">and</supplied> four hundred and twenty <foreign>kuḻi</foreign>s of first rate <supplied reason="subaudible">land</supplied> in the second <foreign>catukkam</foreign> to the west of <supplied reason="subaudible">the path called</supplied> Avaninārāyaṇa-vati of the fourth <foreign>kaṇṇāṟu</foreign> <supplied reason="subaudible">situated</supplied> to the south of <supplied reason="subaudible">the path called</supplied> Vayiramēka-vati.</p>
-	
-	<p n="2">We, <supplied reason="subaudible">the members</supplied> of the big assembly, having received <foreign>pūrvācāram</foreign> from queen Villavaṉ-Mahādeviyār ordered the total <supplied reason="subaudible">extent</supplied> of <supplied reason="subaudible">these</supplied> two thousand nine hundred and twenty <foreign>kuḻi</foreign>s <supplied reason="subaudible">of land</supplied> to be free from taxes as long as the moon and sun <supplied reason="subaudible">last</supplied>. The <foreign>śraddhāmanta</foreign>s themselves shall impose a fine of twenty-five <foreign>kaḻañcu</foreign>s of gold on those who obstruct this charity. The dust of the sacred feet of those who protect this charity shall be on the glorious crown of Villavaṉ-Mahādeviyār who founded this charity. Those who are opposed to this charity shall incur the sins of those who have committed <supplied reason="subaudible">sins</supplied> between Gaṅgā and Kumari. We, <supplied reason="subaudible">the members</supplied> of the big assembly of Uttaramallūr-caturvedimaṅkalam having made <supplied reason="subaudible">the lands</supplied> tax-free, had this donation engraved on stone. I, Śivadāsaṉ Aiyāyirattirunūṟṟuva-Brahmapriyaṉ, the arbitrator, being <supplied reason="subaudible">present</supplied> in the big assembly, wrote <supplied reason="subaudible">this</supplied> at the command of the big assembly. Prosperity !</p>
-		
-</div>
-			
-<div type="translation" resp="part:emfr">
-	
-	<p n="1">Prosperity! Fortune!</p>	
-	<p n="1">Year 11 ...</p>
-
-</div>
-			
-<div type="commentary">
-	
-</div>
-			
-<div type="bibliography">
-				
-	<p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/32).</p>
-	<p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.193).</p>
-	<p>Encoded here by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.</p>
-		
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1920_01"/>
-			<citedRange unit="page">368-370</citedRange>
-			<citedRange unit="item">193</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		<bibl>
-			<ptr target="bib:ARIE1897-1898"/>
-			<citedRange unit="page">17</citedRange>
-			<citedRange unit="appendix">B/1898</citedRange>
-			<citedRange unit="item">32</citedRange>
-		</bibl>	
-		
-	</listBibl>
-	
-			</div>
-			
-		</body>
-	</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 11,
+                    day 324</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSUttiramerur00041</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-02" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    kō-pā<choice><orig>tti</orig><reg>rtti</reg></choice>vēntirātipati-va<hi rend="grantha"><supplied reason="omitted">n</supplied>ma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num>-ḷ <num value="320">3 <g type="numeral">100</g> 2 <g type="numeral">10</g> 4</num>
+                </p>
+                <p>
+                    kāliyūr-kōṭṭattu ta<choice><orig>n</orig><reg>ṉ</reg></choice>-kūṟṟu
+                    Uttara-mēru-cat<choice><sic>a<hi rend="grantha">vy</hi></sic><corr>u<hi rend="grantha">rvv</hi></corr></choice>eti-maṅkalatu peruṅ-kuṟi
+                    <hi rend="grantha">sabhai</hi>yōm Eṅkaḷūr-t tiru<hi rend="grantha">vai</hi>yo<hi rend="grantha">dyai</hi> perumān-aṭikaḷukku Uṭ<hi rend="grantha">ai</hi>yār
+                    <hi rend="grantha">de</hi><unclear>vi</unclear>yār
+                    villavaṉ-<hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>viyār tām Eḻunt-aruḷuvitta tiru-mēṉikkum <hi rend="grantha"><choice><sic>śī</sic><corr>śrī</corr></choice></hi>-kōyilukkum <hi rend="grantha"><choice><sic>śī</sic><corr>śrī</corr></choice>-bali</hi>kkum
+                    <hi rend="grantha">Arcca</hi>nā<hi rend="grantha">bhoga</hi>ttukkum vaitta
+                    <hi rend="grantha">bhūmi</hi>
+                </p>
+                <p>
+                    Uttara-mēru-va<add place="below">ti</add>yiṉ mēṟkku mutaṟ-k kaṇṇāṟu
+                    <hi rend="grantha">sarasu</hi>vati-v<choice><orig>ā</orig><reg>āy</reg></choice>kkāli<unclear>ṉ</unclear> vaṭakku
+                    <lb n="2"/>nālā<choice><sic><unclear>ṅ</unclear></sic><corr>ñ</corr></choice> cātukkattum Añcāñ catukkattum Āṟāñ catukkattu<supplied reason="omitted">m</supplied>
+                    Āka talai-taraṅ kuḻi Āyirattu Eḻu-nūṟṟu Aṟu-patu vayira-mēka-vatiyiṉ teṟkku
+                    Amaṉi-nārāyaṇa-vatikku mēṟkku Iraṇṭāṅ kaṇṇāṟṟu Añcā<supplied reason="omitted">ñ</supplied> catu<supplied reason="omitted">k</supplied>kattu talai-taraṅ kuḻi Eḻu-nūṟṟu nāṟ-patu <unclear>va</unclear>yira-mēka-<unclear>va</unclear>tiyiṉ teṟ<unclear>k</unclear>ku
+                    nālāṅ kaṇṇāṟṟu Avani-nāraṇa-vatiyiṉ mēṟkku Iraṇṭā<supplied reason="omitted">ñ</supplied> catukkattu talai-ta<supplied reason="omitted">ra</supplied>ṅ kuḻi nā-nūṟṟu Iru-patum Āka kuḻi Iraṇṭ' āyirattu toḷḷā		
+                    <lb n="3" break="no"/>yirattu Iru-patum
+                    <hi rend="grantha">de</hi>viyār villavaṉ
+                    <hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>vi-y-āriṭai <hi rend="grantha">pūvvajā</hi>ra<unclear>ṅ</unclear> ko<supplied reason="omitted">ṇṭu</supplied>
+                    <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ<surplus>kku</surplus> Iṟai-y-ili-y-āka-p paṇittōm peruṅ-kuṟi <hi rend="grantha">sabhai</hi>yōm 
+                </p>
+                <p>
+                    I<hi rend="grantha"><choice><sic>ś</sic><corr>dh</corr></choice>a</hi>mattukku virōtam niṉṟārai
+                    <hi rend="grantha"><unclear>śra</unclear></hi><surplus>t</surplus><hi rend="grantha">ddhāma</hi>n=ta<hi rend="grantha">rē</hi> Irupat<surplus>tu</surplus>t' aiñ-kaḻañ<unclear>cu po</unclear>ṉ
+                    <hi rend="grantha">da</hi>ṇṭa-paṭuvat' āka<supplied reason="omitted">vu</supplied><unclear>m</unclear>
+                </p>
+                <p>
+                    I-ta<hi rend="grantha">nma<supplied reason="omitted">m·</supplied> rakṣi</hi>ppār <hi rend="grantha">śri-pādadhūḷi</hi>
+                    I-pa<hi rend="grantha">ma</hi>ñ ceyta
+                    villavaṉ-<hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>hā-de</hi>viyār tiru-muṭi mēla<choice><orig>n</orig><reg>ṉ</reg></choice>a v-ākavum
+                </p>
+                <p>	I-<hi rend="grantha">dhanma</hi>ttukku
+                    <hi rend="grantha">a</hi>yt' anṟ' eṉṟār
+                    <hi rend="grantha">ge</hi>ṅ<supplied reason="omitted">k</supplied>ai <unclear>Iṭai</unclear>
+                    <lb n="4"/>kumari-<supplied reason="omitted">-y-i</supplied>ṭai c<orig><unclear>ē</unclear></orig><reg>ey</reg>tār c<choice><orig>e</orig><reg>ey</reg></choice>ta pāvam paṭuka
+                </p>
+                <p>
+                    Ip-paricu Iṟai-y-iḻicci <hi rend="grantha"><choice><sic>ś=</sic><corr>śi</corr></choice></hi>lā-<hi rend="grantha">lekhai</hi> ceytu kuṭu<supplied reason="omitted">t</supplied>tōm Uttara-mēllu-catu<hi rend="grantha"><choice><sic>vy</sic><corr>rvv</corr></choice>e</hi>ti-maṅkalattu p<choice><sic>o</sic><corr>e</corr></choice>ruṅ-kuṟi <hi rend="grantha">sabhai</hi>yō<supplied reason="omitted">m</supplied>
+                </p>
+                <p>
+                    mā<hi rend="grantha">sabhai</hi>yu<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> iruntu <hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>hāsabhai</hi> paṇ<choice><sic>a</sic><corr>i</corr></choice>kka E<unclear>ḻu</unclear>tinēṉ <hi rend="grantha">madhyasta</hi><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha"><unclear>śi</unclear>va-dāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice> <choice><orig>Ay</orig><reg>Ai</reg></choice>-y-ā<supplied reason="omitted">yira</supplied>tt-iru-nūṟṟuva-<hi rend="grantha"><unclear>bra</unclear>hma-<unclear>pri</unclear></hi>yaṉē<choice><orig>n</orig><reg>ṉ</reg></choice>
+                </p>
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <unclear>śrī</unclear> <g type="gomutraFinal">.</g>
+                </ab>	
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:KrishnaSastri1920_01">...</rdg>
+                </app>
+                
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" source="bib:KrishnaSastri1920_01">
+                
+                <p n="">Hail! Prosperity! In the 11th year <supplied reason="subaudible">and</supplied> the 324th day of <supplied reason="subaudible">the reign of</supplied> king Pārthivendrādhipativarman, we <supplied reason="subaudible">the members</supplied> of the big assembly of Uttaramērucaturvedimaṅkalam, <supplied reason="subaudible">a village</supplied> in its <supplied reason="subaudible">own</supplied> subdivision in Kāliyūr-kōṭṭam <supplied reason="subaudible">wrote thus</supplied>. The <supplied reason="subaudible">following</supplied> lands were given by Villavaṉ-Mahādeviyār, the queen of the lord <supplied reason="explanation"><hi rend="italic">i.e.</hi>, the king</supplied>, for the image and for the <foreign>śrīkōvil</foreign>, which she had set up to the god <supplied reason="explanation"><foreign>perumāṉaṭikaḷ</foreign></supplied> of Tiruvayodhyai in our village and for <foreign>śrībali</foreign> and <foreign>arcanābhoga:</foreign>—one thousand seven hundred and sixty <foreign>kuḻi</foreign>s in all, of first rate <supplied reason="subaudible">land</supplied> in the fourth, fifth and sixth <foreign>śadukkam</foreign> <supplied reason="subaudible">situated</supplied> north of <supplied reason="subaudible">the channel called</supplied> Sarasvati-vāykkāl of the first <foreign>kaṇṇāṟu</foreign> to the west of <supplied reason="subaudible">the path called</supplied> Uttaramēru-vati; seven hundred and forty <foreign>kuḻi</foreign>s of first rate <supplied reason="subaudible">land</supplied> in the fifth <foreign>catukkam</foreign> of the second <foreign>kaṇṇāṟu</foreign> <supplied reason="subaudible">situated</supplied> to the west of <supplied reason="subaudible">the path called</supplied> Amaninārāyaṇa-vati south of <supplied reason="subaudible">the path called</supplied> Vayiramēka-vati; <supplied reason="subaudible">and</supplied> four hundred and twenty <foreign>kuḻi</foreign>s of first rate <supplied reason="subaudible">land</supplied> in the second <foreign>catukkam</foreign> to the west of <supplied reason="subaudible">the path called</supplied> Avaninārāyaṇa-vati of the fourth <foreign>kaṇṇāṟu</foreign> <supplied reason="subaudible">situated</supplied> to the south of <supplied reason="subaudible">the path called</supplied> Vayiramēka-vati.</p>
+                
+                <p n="2">We, <supplied reason="subaudible">the members</supplied> of the big assembly, having received <foreign>pūrvācāram</foreign> from queen Villavaṉ-Mahādeviyār ordered the total <supplied reason="subaudible">extent</supplied> of <supplied reason="subaudible">these</supplied> two thousand nine hundred and twenty <foreign>kuḻi</foreign>s <supplied reason="subaudible">of land</supplied> to be free from taxes as long as the moon and sun <supplied reason="subaudible">last</supplied>. The <foreign>śraddhāmanta</foreign>s themselves shall impose a fine of twenty-five <foreign>kaḻañcu</foreign>s of gold on those who obstruct this charity. The dust of the sacred feet of those who protect this charity shall be on the glorious crown of Villavaṉ-Mahādeviyār who founded this charity. Those who are opposed to this charity shall incur the sins of those who have committed <supplied reason="subaudible">sins</supplied> between Gaṅgā and Kumari. We, <supplied reason="subaudible">the members</supplied> of the big assembly of Uttaramallūr-caturvedimaṅkalam having made <supplied reason="subaudible">the lands</supplied> tax-free, had this donation engraved on stone. I, Śivadāsaṉ Aiyāyirattirunūṟṟuva-Brahmapriyaṉ, the arbitrator, being <supplied reason="subaudible">present</supplied> in the big assembly, wrote <supplied reason="subaudible">this</supplied> at the command of the big assembly. Prosperity !</p>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>	
+                <p n="1">Year 11 ...</p>
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/32).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.193).</p>
+                <p>Encoded here by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1920_01"/>
+                        <citedRange unit="page">368-370</citedRange>
+                        <citedRange unit="item">193</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1897-1898"/>
+                        <citedRange unit="page">17</citedRange>
+                        <citedRange unit="appendix">B/1898</citedRange>
+                        <citedRange unit="item">32</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
