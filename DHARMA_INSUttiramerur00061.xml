@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Uttiramērūr, Sundaravaradaperumāḷ temple, time of Rājarāja I Cōḻa, year 24</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSUttiramerur00061</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. Distinction between Grantha <foreign>tu</foreign> and Tamil <foreign>tu</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-06-24" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg>
+                    <l n="1">tiru-makaḷ pōla-p peru-<choice><sic>ṉ</sic><corr>n</corr></choice>ila-c-celviyun</l>
+                    <l n="2">taṉakkē y-urim<hi rend="grantha">ai</hi> pūṇṭam<hi rend="grantha">ai</hi> <add place="below">ma</add>ṉakkoḷa-k</l>
+                    <l n="3">kāntaḷūr-c cālai kalam arutt-aruḷi</l>
+                    <l n="4">vēṅk<hi rend="grantha">ai</hi>-nāṭuṅ kaṅka-pāṭiyu<supplied reason="subaudible">m</supplied></l>
+                    <l n="5"><choice><sic>ṉ</sic><corr>n</corr></choice>uḷam<supplied reason="omitted">pa</supplied>-pāṭiyun taṭik<hi rend="grantha">ai</hi>-pāṭiyuṅ</l>
+                    <l n="6">kuṭa-malai-nāṭuṅ kollamuṅ ka<lb n="2" break="no"/>liṅkamum</l>
+                    <l n="7">Eṇ-ṭic<hi rend="grantha">ai</hi> pukaḻ tara Īḻa-maṇṭalamum</l>
+                    <!--<l n="8">Iṟaṭṭapāṭi Ēḻ’ arai y-ilak=kamun</l>-->
+                    <l n="9">tiṇṭiṟal ve<choice><sic>n</sic><corr>ṉ</corr></choice>ṟi taṇṭā<supplied reason="omitted">ṟ</supplied>-k= ko<!--note kko-->ṇṭa taṉṉ</l>
+                    <l n="10">eḻil vaḷar<surplus>u</surplus> Ūḻi Ellā yāṇṭun</l>
+                    <l n="11">toḻutak<hi rend="grantha">ai</hi> viḷaṅkum yāṇṭē</l>
+                    <l n="12">ceḻiyarai-t tēcu koḷ</l>
+                </lg>
+                
+                <p>
+                    <hi rend="grantha">śrī</hi>-kō-rā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-ke<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī-rāja-rāja-</hi>tēvaṟku yā<lb n="3" break="no"/>ṇṭu Iru-pattu <choice><sic>ṉ</sic><corr>n</corr></choice>āl-āvatu
+                </p>
+                
+                <p>
+                    kāliyūr-k=-kō<!--note kko-->ṭṭattu taṉ kūṟṟu Utta<hi rend="grantha">ra-meru-c-caturvvedi-maṃga</hi>lattu <hi rend="grantha">śrī</hi>-veli-vi<hi rend="grantha">ṣṇu-gṛha</hi>ttu veḷḷai-mū<reg>r</reg>t=ti y-āḷvārkku <hi rend="grantha">śrī</hi>-nā<hi rend="grantha">rā</hi>yaṇa-c-cēri ciṅkippuṟattu Aiyaṉaṭikaḷ <hi rend="grantha">kra</hi>mavittaṉ vaitta <choice><sic>ṉ</sic><corr>n</corr></choice>antā-viḷak=ku O<choice><sic>n</sic><corr>ṉ</corr></choice>ṟiṉāl Ā<lb n="4" break="no"/>ṭu toṇṇūṟṟ’ āṟu</p>
+                
+                <p>
+                    It-to<supplied reason="omitted">ṇṇūṟṟ’ ā</supplied>ṟukkum Ivv-ūr-p periḷam<hi rend="grantha">ai</hi>yārē puṇai-y-ā<supplied reason="omitted">ka</supplied>-c cāvā m<choice><orig>u</orig><reg>ū</reg></choice>vā-p pēr-āṭ’ āka <hi rend="grantha">candrādi</hi>ttavaṟ  nicatam Uḻak=ku <choice><sic>ṉ</sic><corr>n</corr></choice>ey muṭṭām<hi rend="grantha">ai</hi> Aṭṭuvippārkaḷ āka muṭṭil <hi rend="grantha">śraddhā</hi>mantarum <hi rend="grantha">śrīvaiṣṇa</hi>varumē <hi rend="grantha">daṇḍi</hi>ppār āka v<hi rend="grantha">ai</hi>ttō<supplied reason="subaudible"></supplied>m <hi rend="grantha">mahāsabhai</hi>yōm <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation">
+                
+                <p n="1">Prosperity! Fortune!</p>	
+                <p n="1-4"><gap reason="ellipsis"/></p>	
+                
+            </div>                        
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/167).</p>
+                <p>This edition by Emmanuel Francis based on ASI estampage “AR_C0166_1922-23” and transcript “AR_C0167_1922-23_T” available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-19).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl></bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1922-1923"/>
+                        <citedRange unit="page">76</citedRange>
+                        <citedRange unit="appendix">C/1923</citedRange>
+                        <citedRange unit="item">167</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
