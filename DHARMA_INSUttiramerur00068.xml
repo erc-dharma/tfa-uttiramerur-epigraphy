@@ -11,10 +11,6 @@
                 <title>Uttiramērūr, Sundaravaradaperumāḷ temple, time of Parakesarivarman Rājendra Cōḻa, year 3</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -161,7 +157,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/181).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis based on the estampage under the copyright of ASI, kindly supplied by the Director of epigraphy, Mysore.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis based on the ASI estampage “AR_C0190_1922-23” available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-23)<!--also kindly supplied by the Director of epigraphy, Mysore-->.</p>
                 
                 <!--<listBibl type="primary">                    
                     

@@ -44,8 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. Distinction between Grantha <foreign>tu</foreign> and Tamil <foreign>tu</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -83,37 +82,40 @@
                 </ab>
                 
                 <lg>
-                    <l n="1">tirumakaḷ pōla-p peru-nila-c-celviyu<choice><sic>ṉ</sic><corr>n</corr></choice></l>
+                    <l n="1">tiru-makaḷ pōla-p peru-nila-c-celviyu<choice><sic>ṉ</sic><corr>n</corr></choice></l>
                     <l n="2">taṉakkē y-ur<unclear>i</unclear>mai pūṇṭamai ma<choice><orig>n</orig><reg>ṉ</reg></choice>akkoḷa-k</l>
-                    <l n="3">kāntaḷūr cālai kalamaru<unclear>t</unclear>t-aruḷ<unclear>i</unclear></l>
+                    <l n="3">kāntaḷūr cālai kalam aru<unclear>t</unclear>t-aruḷ<unclear>i</unclear></l>
                     <l n="4">vēṅk<hi rend="grantha">ai</hi>-<choice><sic>ṉ</sic><corr>n</corr></choice>āṭuṅ kaṅka-pāṭiyum</l>
-                    <l n="5">nuḷampa-pāṭiyum taṭikai-pāṭiyuṅ</l>
-                    <l n="6">kuṭamalai-nāṭuṅ kollamuṅ kaliṅkamum</l>
-                    <l n="7">Eṇ-ṭicai pukaḻ tara Īḻamaṇṭalamum</l>
+                    <l n="5">nuḷampa-pāṭiyu<unclear>n=</unclear> taṭikai-pāṭiyuṅ</l>
+                    <l n="6">kuṭa-malai-nāṭuṅ kollamuṅ kaliṅkamum</l>
+                    <l n="7">Eṇ-ṭicai pukaḻ tara Īḻa-maṇṭalamum</l>
                     <l n="8">Iṟaṭṭapāṭi Ēḻ’ arai y-ilak=kamun</l>
-                    <l n="9">tiṇtiṟal veṉṟi-t taṇṭāṟ-k= koṇṭa ta<choice><orig>nn</orig><reg>ṉṉ</reg></choice></l>
+                    <l n="9">tiṇṭiṟal veṉṟi-t taṇṭāṟ-k= koṇṭa ta<choice><orig>nn</orig><reg>ṉṉ</reg></choice></l>
                     <l n="10">eḻil vaḷar ūḻiyuḷ E<lb n="2" break="no"/>llā yāṇṭu<choice><sic>ṉ</sic><corr>n</corr></choice></l>
                     <l n="11">toḻutakai viḷaṅkum yāṇṭē</l>
                     <l n="12">ceḻiyarai-t tēcu koḷ</l>
                 </lg>
                 <p>
-                    <hi rend="grantha">śrī</hi>-kō-rā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-ke<hi rend="grantha">sari-pammār-ā</hi>ṉa <hi rend="grantha">śrī-rāja-rāja-</hi>tēva<supplied reason="omitted">r</supplied>kku yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num> vatu
+                    <hi rend="grantha">śrī</hi>-kō-rā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-ke<hi rend="grantha">sari-pa<reg>r</reg>mmār-ā</hi>ṉa <hi rend="grantha">śrī-rāja-rāja-</hi>tēva<supplied reason="omitted">r</supplied>k=ku yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num> vatu
                 </p>
                 
                 <p>
-                    kāliyūr-k=-koṭṭattu taṉ-kūṟṟu Ut=tara<hi rend="grantha">meru-c-catu<reg>r</reg>vve</hi>ti-maṅkalattu <hi rend="grantha">śrī</hi>-veli-vi<hi rend="grantha">ṣṇu-gṛha</hi>t=tu veḷḷai-mūrtti Āḷvāruk=ku veṇkuṉṟak=koṭṭat=tu-p peru-nakara-nāṭṭu-p peru-nakara-veḷḷāḷaṉ koññ Ampalavaṉ toṅkal-ēṉ vaicca tiru-nan=tā-viḷak=ku Oṉṟi<choice><sic>n</sic><corr>ṉ</corr></choice>āl āṭu <num>9 <g type="numeral">10</g> 2</num></p>
+                    kāliyūr-k=-kōṭṭattu taṉ kūṟṟu Ut=tara-<hi rend="grantha">meru-c-catu<reg>r</reg>vve</hi>ti-maṅkalattu <hi rend="grantha">śrī</hi>-veli-vi<hi rend="grantha">ṣṇu-gṛha</hi>t=tu veḷḷ<unclear>ai</unclear>-mūrtti Āḷvāruk=ku veṇkuṉṟa-k=-kōṭṭat=tu-p peru-nakara-nāṭṭu-p peru-nakara-veḷḷāḷaṉ koññ Ampalavaṉ toṅkal-ēṉ vaicca tiru-nan=tā-viḷak=ku Oṉṟi<choice><sic>n</sic><corr>ṉ</corr></choice>āl āṭu <num>9 <g type="numeral">10</g> 2</num></p>
                 
                 <p>
-                    <lb n="3" break="no"/>It-toṇṇūṟṟu Iraṇṭukkum I<choice><orig>v</orig><reg>vv</reg></choice>-ūr <del><gap reason="lost"/></del>
+                    <lb n="3" break="no"/><supplied reason="undefined">I</supplied>t-toṇṇūṟṟu Iraṇṭukkum Ivv-ūr <del><gap reason="lost"/></del>
                 </p>
                 
             </div>
             
             <div type="apparatus">
                 <listApp>
-                    <app loc="3">
-                        <lem>I<choice><orig>v</orig><reg>vv</reg></choice>-ūr <del><gap reason="lost"/></del></lem>
-                        <note>Over the deleted portion has been engraved the inscription <ref target="DHARMA_INSUttiramerur00098"/>.</note>
+                    <app loc="2">
+                        <lem>perunakaranāṭṭup perunakaraveḷḷāḷaṉ koññ</lem>
+                        <note>ASI transcript: perunakarnāṭṭup perunakar veḷḷāḷaṉ koñ<unclear>ñi</unclear></note>
+                    </app><app loc="3">
+                        <lem>Ivv-ūr <del><gap reason="lost"/></del></lem>
+                        <note>The inscription <ref target="DHARMA_INSUttiramerur00098"/> has been engraved over the deleted portion.</note>
                     </app>
                 </listApp>
             </div>
@@ -132,7 +134,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/192).</p>
-                <p>This edition by Emmanuel Francis based on ASI estampage and transcript “AR_C0192_1922-23”  available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-19) .</p>
+                <p>This edition by Emmanuel Francis based on ASI estampage and transcript “AR_C0192_1922-23” available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-19).</p>
                 
                 <listBibl type="primary">
                     
