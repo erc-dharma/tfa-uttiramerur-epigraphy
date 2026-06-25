@@ -10,14 +10,7 @@
             <titleStmt>
                 <title>Uttiramērūr, Vaikuṇṭha-Perumāḷ, time of Parakesarivarman, year 14</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
