@@ -95,15 +95,17 @@
                     <l n="11"><choice><sic>t</sic><corr>c</corr></choice>eḻiyarai <lb n="4"/>tēcu koḷ</l>
                 </lg>
                 <p>
-                    <hi rend="grantha">śrī</hi>-kō-v-i<hi rend="grantha">rāja-rāja-rāja-kesari-panma</hi>kku yāṇṭu Irupatt’ o<choice><sic>n</sic><corr>ṉ</corr></choice>r-āvatu
+                    <hi rend="grantha">śrī</hi>-kō-v-i<hi rend="grantha">rāja-rāja-rāja-kesari-panma</hi>kku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num> Āvatu
                 </p>
                 
                 <p>
-                    kāliyūr-k=-kōṭṭattu taṉ kūṟṟ’ uttara-mēru-c-catu<hi rend="grantha"><reg>r</reg>vvedi</hi>
-                    <lb n="3" break="no"/>-maṅkalattu <hi rend="grantha">śrī</hi>-veli-vi<hi rend="grantha">ṣṇu-gṛha</hi>ttu veḷḷai-m<choice><sic>u</sic><corr>ū</corr></choice><reg>r</reg>tti-y-āḻvārk=ku <hi rend="grantha">śrī</hi>-<choice><sic>ṉ</sic><corr>n</corr></choice>ār<choice><sic>a</sic><corr>ā</corr></choice>yaṇa-c-cēri-kilākkil caṉṉacaṭṭi <hi rend="grantha">kra</hi>mavitta<supplied reason="omitted">ṉ</supplied> vaitta <choice><sic>ṉ</sic><corr>n</corr></choice>antā-viḷak=ku Oṉṟiṉāl Āṭu toṇṇūṟṟ’ āṟu</p>
-                
+                    kāliyūr-kōṭṭattu taṉ kūṟṟattu Uttira-mē<choice><sic><choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice>ūr</sic><corr>ru</corr></choice>-c-catu<hi rend="grantha"><reg>r</reg>vve</hi>ti
+                    <lb n="5" break="no"/>-maṅkalattu koṅkaraiy <hi rend="grantha">śrī</hi>-kōyil niṉṟ-aruḷiya parama-<hi rend="grantha">su</hi>vām<choice><sic>ī</sic><corr>i</corr></choice>kku nun=tā-vi<hi rend="grantha">ḷa</hi><supplied reason="omitted">k</supplied>ku vaiccāṉ
+                    mēlkāl Uṭaiyāṉ poṟtāḻi kāmakoṭi ko <space/>
+                </p>
                 <p>
-                    It-toṇṇūṟṟ’ āṟuk=kum I<choice><orig>v</orig><reg>vv</reg></choice>-ūr periḷamaiyārē puṇai-y-ā<supplied reason="omitted">ka</supplied>-c cāvā m<choice><orig>u</orig><reg>ū</reg></choice>vā-p pēr-āṭ’ āka <hi rend="grantha">candrāditya</hi>vaṟ nicatam Uḻak=ku <choice><sic>n</sic><corr>n</corr></choice>ey muṭṭāmai Aṭṭuvippārkaḷ āka muṭṭil <hi rend="grantha">śraddhā</hi>mantarum <hi rend="grantha">śrī-vaiṣṇa</hi><supplied reason="omitted">va</supplied>rumē <hi rend="grantha">da<unclear reason="eccentric_ductus">ṇḍ</unclear>i</hi>ppār <choice><sic>a</sic><corr>ā</corr></choice>ka v<choice><sic>a</sic><corr>ai</corr></choice>ttō<supplied reason="subaudible">m</supplied> <hi rend="grantha">mahāsabhai</hi>yōm
+                    <lb n="6" break="no"/>Iv-viḷakku <hi rend="grantha">candrādi</hi>ttavar Āricāṇimaṅkalattil <hi rend="grantha">sabhai</hi>yār vacam viṭṭa Āṭu toṇṇūṟṟu 6 Ām
+                    <lb n="7" break="no"/>cāvā m<choice><sic>u</sic><corr>ū</corr></choice>vā pēr-āṭu                    
                 </p>
                 
             </div>
@@ -114,13 +116,17 @@
                         <lem><choice><sic>ṉ</sic><corr>n</corr></choice>uḷampa-pāṭiyum</lem>
                         <note>The word <foreign><choice><sic>ṉ</sic><corr>n</corr></choice>uḷampa-pāṭiyum</foreign> is repeated instead of expected <foreign>kuṭa-malai-nāṭum</foreign>.</note>
                     </app>
+                    <app loc="6">
+                        <lem>6 Ām</lem>
+                        <note>ASI transcript: <foreign>6 ṟum</foreign>. We expect indeed the goats to be 96.</note>
+                    </app>
                 </listApp>
             </div>
             
             <div type="translation">
                 
                 <p n="1">Prosperity! Fortune!</p>	
-                <p n="1-3"><gap reason="ellipsis"/></p>	
+                <p n="1-7"><gap reason="ellipsis"/></p>	
                 
             </div>                        
             
