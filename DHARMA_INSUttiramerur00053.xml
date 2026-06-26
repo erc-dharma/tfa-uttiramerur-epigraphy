@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSUttiramerur00054</idno>
+                <idno type="filename">DHARMA_INSUttiramerur00053</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -83,29 +83,29 @@
                 
                 <lg>
                     <l n="1">tirumakaḷ pōla peru-nilai-c-cel<choice><sic>vv</sic><corr>v</corr></choice>iyun=</l>
-                    <l n="2">taṉakkē y-urimai pūṇṭamai maṉakkoḷa</l>
+                    <l n="2">taṉak=kē<!--note kke--> y-urimai pūṇṭamai maṉakkoḷa</l>
                     <l n="3">kān=taḷūr cālai <lb n="2"/>kalam arutt-aruḷi</l>
-                    <l n="4">vēṅkai-nāṭuṅ kaṅka-pāṭiyu<choice><sic>ṉ</sic><corr>n</corr></choice></l>
+                    <l n="4">vēṅkai-nāṭuṅ kaṅka-pāṭiyu<choice><sic>ṉ</sic><corr>m</corr></choice></l>
                     <l n="5"><choice><sic>ṉ</sic><corr>n</corr></choice>uḷampa-pāṭiyum taṭikai-pāṭiyuṅ</l>
-                    <l n="6"><choice><sic>ṉ</sic><corr>n</corr></choice>uḷampa-pāṭiyum kollamuṅ kaliṅkamu<lb n="3" break="no"/>m</l>
+                    <l n="6"><choice><sic>ṉ</sic><corr>n</corr></choice>uḷampa-pāṭiyum kollamum kaliṅkamu<lb n="3" break="no"/>m</l>
                     <l n="7">Eṇ-ṭicai pukaḻ <supplied reason="omitted">tara</supplied> Īḻa-maṇṭalamum</l>
-                    <l n="8">tiṇṭiṟal veṉṟi taṇṭāṟ koṇṭa taṉṉ</l>
+                    <l n="8">tiṇṭiṟal veṉṟi-t taṇṭāṟ koṇṭa taṉṉ</l>
                     <l n="9">eḻil vaḷar <choice><orig>u</orig><reg>ū</reg></choice>ḻiUḷḷ ellā yāṇṭun</l>
                     <l n="10">toḻutakai viḷaṅkum yāṇṭē-y</l>
                     <l n="11"><choice><sic>t</sic><corr>c</corr></choice>eḻiyarai <lb n="4"/>tēcu koḷ</l>
                 </lg>
                 <p>
-                    <hi rend="grantha">śrī</hi>-kō-v-i<hi rend="grantha">rāja-rāja-rāja-kesari-panma</hi>kku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num> Āvatu
+                    <hi rend="grantha">śrī</hi>-kō-v-i<hi rend="grantha">rāja-rāja-rāja-kesari-panma</hi><reg>r</reg>kku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num> Āvatu
                 </p>
                 
                 <p>
-                    kāliyūr-kōṭṭattu taṉ kūṟṟattu Uttira-mē<choice><sic><choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice>ūr</sic><corr>ru</corr></choice>-c-catu<hi rend="grantha"><reg>r</reg>vve</hi>ti
-                    <lb n="5" break="no"/>-maṅkalattu koṅkaraiy <hi rend="grantha">śrī</hi>-kōyil niṉṟ-aruḷiya parama-<hi rend="grantha">su</hi>vām<choice><sic>ī</sic><corr>i</corr></choice>kku nun=tā-vi<hi rend="grantha">ḷa</hi><supplied reason="omitted">k</supplied>ku vaiccāṉ
+                    kāliyūr-kōṭṭattu taṉ kūṟṟattu Uttira-mē<choice><sic><choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice>ūr</sic><corr>ru</corr></choice>-catu<hi rend="grantha"><reg>r</reg>vve</hi>ti
+                    <lb n="5" break="no"/>-maṅkalattu koṅkaraiy <hi rend="grantha">śrī</hi>-kōyil niṉṟ-aruḷiya parama-<hi rend="grantha">su</hi>vām<choice><sic>ī</sic><corr>i</corr></choice>k=ku nun=tā-vi<hi rend="grantha">ḷa</hi><supplied reason="omitted">k</supplied>ku v<choice><sic>a</sic><corr>ai</corr></choice>ccāṉ
                     mēlkāl Uṭaiyāṉ poṟtāḻi kāmakoṭi ko <space/>
                 </p>
                 <p>
-                    <lb n="6" break="no"/>Iv-viḷakku <hi rend="grantha">candrādi</hi>ttavar Āricāṇimaṅkalattil <hi rend="grantha">sabhai</hi>yār vacam viṭṭa Āṭu toṇṇūṟṟu 6 Ām
-                    <lb n="7" break="no"/>cāvā m<choice><sic>u</sic><corr>ū</corr></choice>vā pēr-āṭu                    
+                    <lb n="6" style="text-align: right"/>Iv-viḷakku <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rādi</hi>ttavar Āricāṇimaṅkalattil <hi rend="grantha">sabhai</hi>yār vacam viṭṭa Āṭu toṇṇūṟṟu 6 Ām
+                    <lb n="7" break="no" style="text-align: right"/>cāvā m<choice><sic>u</sic><corr>ū</corr></choice>vā pēr-āṭu                    
                 </p>
                 
             </div>
@@ -114,11 +114,11 @@
                 <listApp>
                     <app loc="2">
                         <lem><choice><sic>ṉ</sic><corr>n</corr></choice>uḷampa-pāṭiyum</lem>
-                        <note>The word <foreign><choice><sic>ṉ</sic><corr>n</corr></choice>uḷampa-pāṭiyum</foreign> is repeated instead of expected <foreign>kuṭa-malai-nāṭum</foreign>.</note>
+                        <note>The word <foreign>nuḷampa-pāṭiyum</foreign> is repeated instead of expected <foreign>kuṭa-malai-nāṭum</foreign>.</note>
                     </app>
                     <app loc="6">
                         <lem>6 Ām</lem>
-                        <note>ASI transcript: <foreign>6 ṟum</foreign>. We expect indeed the goats to be 96.</note>
+                        <note>ASI transcript: <foreign>6 ṟum</foreign>.</note>
                     </app>
                 </listApp>
             </div>
