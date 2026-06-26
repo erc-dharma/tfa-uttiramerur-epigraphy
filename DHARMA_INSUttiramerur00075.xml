@@ -82,7 +82,7 @@
                 </ab>
                 
                 <p>
-                    kō-p-parake<hi rend="grantha">sa</hi>riva<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>rā</unclear><hi rend="grantha"><unclear>jentra</unclear></hi>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu 4-Āvatu
+                    kō-p-parake<hi rend="grantha">sa</hi>riva<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>rā</unclear><hi rend="grantha"><unclear>jen</unclear><choice><orig><unclear>t</unclear></orig><reg>d</reg></choice><unclear>ra</unclear></hi>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu 4-Āvatu
                 </p>
                 
                 <p>
@@ -90,13 +90,18 @@
                     <lb n="2" break="no"/>kalattu peruṅ-kuṟi-<hi rend="grantha">sabhai</hi>yōm Eḻuttu
                 </p>
                 <p>
-                    <seg rend="check">Emm-<choice><orig>u</orig><reg>ū</reg></choice>r veḷḷai-m<choice><orig>u</orig><reg>ū</reg></choice>rtti-Āḻvārk=k koṅkaraiyar vilaik=ku <gap reason="lost" quantity="3" unit="character"/> koṇṭu vaitta kollaiv <hi rend="grantha">bhūmi</hi></seg>
+                    namm-<choice><orig>u</orig><reg>ū</reg></choice>r veḷḷai-m<choice><orig>u</orig><reg>ū</reg></choice>rtti-Āḻvārk=ku koṅkaraiyar vilaik=ku <surplus><add place="above">ka la ta</add></surplus> koṇṭu vaitta kollaiv <hi rend="grantha">bhūmi</hi>
                 </p>
                
             </div>
             
             <div type="apparatus">                
-                
+                <listApp>
+                    <app loc="2">
+                        <lem>namm<choice><orig>u</orig><reg>ū</reg></choice>r</lem>
+                        <note>ASI transcript: <foreign>Emmur</foreign>.</note>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation">                
@@ -110,7 +115,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/169).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis based on the ASI estampage and transcript “AR_C0169_1922-23” available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-23).</p>
+                <p>This edition by Emmanuel Francis based on the ASI estampage and transcript “AR_C0169_1922-23” available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-23).</p>
                 
                 <!--<listBibl type="primary">                    
                     

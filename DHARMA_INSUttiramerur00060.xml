@@ -83,7 +83,7 @@
                 
                 <lg>
                     <l n="1">tiru-makaḷ pōla-p peru-<choice><sic>ṉ</sic><corr>n</corr></choice>ila-c-ce<supplied reason="omitted">l</supplied>viyu<choice><sic>ṉ</sic><corr>n</corr></choice></l>
-                    <l n="2">taṉakkē y-urim<hi rend="grantha">ai</hi> pūṇṭam<hi rend="grantha">ai</hi> maṉakkoḷa-k</l>
+                    <l n="2">taṉakkē<!--note kke--> y-urim<hi rend="grantha">ai</hi> pūṇṭam<hi rend="grantha">ai</hi> maṉakkoḷa-k</l>
                     <l n="3">kāntaḷūr-c cā<lb n="2" break="no"/>lai kalam arutt-aruḷi</l>
                     <l n="4">vēṅk<hi rend="grantha">ai</hi>-nāṭum kaṅka-pāṭiyum</l>
                     <l n="5"><choice><sic>ṉ</sic><corr>n</corr></choice>uḷampa-pāṭiyum taṭik<hi rend="grantha">ai</hi>-pāṭiyum</l>
@@ -92,21 +92,20 @@
                     <l n="8">Ilaṭṭa-pāṭi Ēḻ’ ar<hi rend="grantha">ai</hi> Ilak=kamum</l>
                     <l n="9">tiṇṭiṟal veṉṟi-t taṇṭ<lb n="4" break="no"/>āṟ-k-ko<!--kekā in fact-->ṇṭa taṉṉ</l>
                     <l n="10">eḻil vaḷar <choice><orig>u</orig><reg>ū</reg></choice>ḻi Ellā yāṇṭun</l>
-                    <l n="11">toḻutakai viḷaṅkum yāṇṭē</l>
+                    <l n="11">toḻutak<hi rend="grantha">ai</hi> viḷaṅkum yāṇṭē</l>
                     <l n="12">ceḻiyar<hi rend="grantha">ai</hi><!--superposed kompu-->-t tē<!--teta in fact-->cu koḷ</l>
                 </lg>
                 <p>
-                    <hi rend="grantha">śrī</hi>-kō-
-                    
-                   <!-- rā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-ke<hi rend="grantha">sari-pa<reg>r</reg>mmār-ā</hi>ṉa <hi rend="grantha">śrī-rāja-rāja-</hi>tēva<supplied reason="omitted">r</supplied>k=ku yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num> vatu-->
+                    <hi rend="grantha">śrī</hi>-kō-<hi rend="grantha">rāja-rāja</hi>-ke<hi rend="grantha">sa</hi>ri-van<hi rend="grantha">mar-ā</hi>ṉa <hi rend="grantha">śrī-rāja-rāja-</hi>tēvaṟku yāṇṭu Irupattu <choice><sic>ṉ</sic><corr>n</corr></choice>āl-vatu
                 </p>
                 
-                <!--<p>
-                    kāliyūr-k=-kōṭṭattu taṉ kūṟṟu Ut=tara-<hi rend="grantha">meru-c-catu<reg>r</reg>vve</hi>ti-maṅkalattu <hi rend="grantha">śrī</hi>-veli-vi<hi rend="grantha">ṣṇu-gṛha</hi>t=tu veḷḷ<unclear>ai</unclear>-mūrtti Āḷvāruk=ku veṇkuṉṟa-k=-kōṭṭat=tu-p peru-nakara-nāṭṭu-p peru-nakara-veḷḷāḷaṉ koññ Ampalavaṉ toṅkal-ēṉ vaicca tiru-nan=tā-viḷak=ku Oṉṟi<choice><sic>n</sic><corr>ṉ</corr></choice>āl āṭu <num>9 <g type="numeral">10</g> 2</num></p>
+                <p>
+                    kāliyūr-k=-kō<!--note kko-->ṭṭattu ta<choice><sic>n</sic><corr>ṉ</corr></choice> kūṟṟu Utta<hi rend="grantha">ra</hi>-meru-c-ca<surplus>n=</surplus>turvve<hi rend="grantha">di-maṅgala</hi>ttu <hi rend="grantha">śrī</hi>-veli-vi<hi rend="grantha">ṣṇu-gṛha</hi>t=tu veḷḷ<hi rend="grantha">ai</hi>-m<choice><orig>u</orig><reg>ū</reg></choice>rtti y-āḷvā<hi rend="grantha">r</hi>k=ku <hi rend="grantha">śrī-go</hi>vi<hi rend="grantha">nda</hi>-c-cēri-k=-ko<!--note kko-->ṭi-t<!--ASI: Ikkāṭṭi--> tāmōtira-<hi rend="grantha">bha</hi>ṭṭa<choice><sic>n</sic><corr>ṉ</corr></choice> vaitta <choice><sic>ṉ</sic><corr>n</corr></choice>an=tā
+                    <!--<lb n="5" break="no"/>-viḷak=ku Oṉṟi<choice><sic>n</sic><corr>ṉ</corr></choice>āl āṭu <num>9 <g type="numeral">10</g> 2</num>--></p>
                 
                 <p>
-                    <lb n="3" break="no"/><supplied reason="undefined">I</supplied>t-toṇṇūṟṟu Iraṇṭukkum Ivv-ūr <del><gap reason="lost"/></del>
-                </p>-->
+                    <!--<lb n="3" break="no"/><supplied reason="undefined">I</supplied>t-toṇṇūṟṟu Iraṇṭukkum Ivv-ūr <del><gap reason="lost"/></del>-->
+                </p>
                 
             </div>
             
@@ -141,7 +140,7 @@
                         <ptr target="bib:ARIE1922-1923"/>
                         <citedRange unit="page">76</citedRange>
                         <citedRange unit="appendix">C/1923</citedRange>
-                        <citedRange unit="item">192</citedRange>
+                        <citedRange unit="item">166</citedRange>
                     </bibl>	
                     
                 </listBibl>
