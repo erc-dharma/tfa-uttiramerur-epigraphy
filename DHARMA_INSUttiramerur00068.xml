@@ -91,12 +91,12 @@
                 </p>
                 <p>
                     namm-<choice><orig>u</orig><reg>ū</reg></choice>r veḷḷai-m<choice><orig>u</orig><reg>ū</reg></choice>rtti-Āḻvār kōyilil <hi rend="grantha">śrī</hi>-rākava-<hi rend="grantha">de</hi>var
-                    <lb n="3" break="no"/>k=ku potu nā-nāḻi-y-āka <hi rend="grantha">tri-sa</hi>n=tik=ku Arici <seg rend="check">��</seg> k=kum kaṟi-y-amutuk=kum ney-y-amutuk=kum tayir-amutuk=kum Aṭai-k-kāy-amutuk=kum Āka vai<orig>y</orig>tta <hi rend="grantha">bhūmi</hi> y-āva
+                    <lb n="3" break="no"/>k=ku potu nā-nāḻi-y-āka <hi rend="grantha">tri-sa</hi>n=tik=ku Arici <hi rend="check">��</hi> k=kum kaṟi-y-amutuk=kum ney-y-amutuk=kum tayir-amutuk=kum Aṭai-k-kāy-amutuk=kum Āka vai<orig>y</orig>tta <hi rend="grantha">bhūmi</hi> y-āva
                     <lb n="4" break="no"/>tu
                 </p>
                 <p>
                     <hi rend="grantha">śrī</hi> <gap reason="illegible" quantity="2" unit="character"/> nārācattiṉ teṟku 2 kaṇāṟṟum 3 kaṇā<unclear>ṟ</unclear>ṟum 4 kaṇāṟṟum māṟpiṭuku-vati-y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiru-vēṅkaṭa-vatiyiṉ mēṟku 1 catuk=kattu <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jendra</hi>
-                    <lb n="5" break="no"/>-cōḻa-p-<supplied reason="lost">pe</supplied>ruñ-ceṟuv <gap reason="illegible" quantity="2" unit="character"/> kavan=ta <seg rend="check"><gap reason="illegible" quantity="5" unit="character"/> ��</seg> <num value="200">2 <g type="numeral">100</g></num> ku<supplied reason="lost">ḻi</supplied> It-tēvarkkē-y vayira-mēka-vati-y-āṉa śrī-maturān=taka-vatiyiṉ terk=ku 1 kaṇāṟṟu viṭēlviṭu
+                    <lb n="5" break="no"/>-cōḻa-p-<supplied reason="lost">pe</supplied>ruñ-ceṟuv <gap reason="illegible" quantity="2" unit="character"/> kavan=ta <hi rend="check"><gap reason="illegible" quantity="5" unit="character"/> ��</hi> <num value="200">2 <g type="numeral">100</g></num> ku<supplied reason="lost">ḻi</supplied> It-tēvarkkē-y vayira-mēka-vati-y-āṉa śrī-maturān=taka-vatiyiṉ terk=ku 1 kaṇāṟṟu viṭēlviṭu
                     <lb n="6" break="no"/>ku-vati-y-āṉa tiru-v-ēkampa-vatiyiṉ mēṟku 2 catukkattu teṟk’ aṭaiya <num value="420">4 <g type="numeral">100</g> 2 <g type="numeral">10</g></num> kuḻi tiru-nan=tavāṉam ākavum
                 </p>
                 <p>
@@ -126,11 +126,11 @@
                         <note/>
                     </app>
                     <app loc="3">
-                        <lem>Arici <seg rend="check">��</seg> k=kum</lem>
+                        <lem>Arici <hi rend="check">��</hi> k=kum</lem>
                         <note>Fractions to be deciphered</note>
                     </app>
                     <app loc="5">
-                        <lem><seg rend="check">��</seg> <num value="200">2 <g type="numeral">100</g></num></lem>
+                        <lem><hi rend="check">��</hi> <num value="200">2 <g type="numeral">100</g></num></lem>
                         <note>Fractions to be deciphered.</note>
                     </app>
                 </listApp>

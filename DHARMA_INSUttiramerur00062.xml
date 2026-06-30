@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -138,7 +138,7 @@
                 
                 <listBibl type="primary">
                     
-                    <bibl></bibl>
+                    <bibl/>
                     
                 </listBibl>
                 
