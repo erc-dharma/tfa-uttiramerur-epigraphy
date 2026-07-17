@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of <reg>Pārthivendra</reg> Mahārāja, year 2</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
