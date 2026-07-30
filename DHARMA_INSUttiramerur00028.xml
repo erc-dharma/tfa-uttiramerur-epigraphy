@@ -10,14 +10,7 @@
             <titleStmt>
                 <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Pārthivendrādhipativarman, year 3, day 119</title>
                 <respStmt>
-                    <resp key="contributor">EpiDoc encoding</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
+                    <resp key="creator">EpiDoc encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
