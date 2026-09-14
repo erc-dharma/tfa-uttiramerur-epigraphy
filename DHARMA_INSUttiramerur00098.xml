@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Uttiramērūr, Sundaravaradaperumāḷ temple, time of Vīrapratāpa Kṛṣṇadeva Mahārāya</title>
+                <title>Uttiramērūr, Sundaravaradaperumāḷ temple, time of Vīrapratāpa Kr̥ṣṇadeva Mahārāya</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -58,7 +58,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    <hi rend="grantha">śrīmaN mahā-maṇḍaleśvara rājādhirājarāja parameśvaraN śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra-prā</hi>ta<hi rend="grantha">pā kṛṣṇa</hi>ya-<hi rend="grantha">de</hi>va-<hi rend="grantha">mahārā</hi>yā <hi rend="grantha">pṛthī</hi>vi-rā
+                    <hi rend="grantha">śrīmaN mahā-maṇḍaleśvara rājādhirājarāja parameśvaraN śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra-prā</hi>ta<hi rend="grantha">pā kr̥ṣṇa</hi>ya-<hi rend="grantha">de</hi>va-<hi rend="grantha">mahārā</hi>yā <hi rend="grantha">pr̥thī</hi>vi-rā
                 </p>
                 
             </div>
@@ -76,7 +76,7 @@
             
             <div type="commentary">
                 <p>Engraved over the end of <ref target="DHARMA_INSUttiramerur00062"/>.</p>
-                <p n="1"><foreign><hi rend="grantha">pṛthī</hi>vi-rā</foreign>. The inscription stops here unfinished.</p>
+                <p n="1"><foreign><hi rend="grantha">pr̥thī</hi>vi-rā</foreign>. The inscription stops here unfinished.</p>
             </div>
             
             <div type="bibliography">
